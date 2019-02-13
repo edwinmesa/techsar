@@ -1,0 +1,1854 @@
+[
+  {
+    "f009_rg_iso_country": "BRA",
+    "f009_rg_country_des": "Brazil",
+    "f009_rg_desc_local": "Brasil",
+    "f009_rg_cod_web": "BR",
+    "f009_rg_region": "South America",
+    "f009_rg_continent": "South America",
+    "f009_rg_latitude": -10,
+    "f009_rg_longitude": -55,
+    "f009_rg_area": 8547403,
+    "f009_rg_population": 170115000
+  },
+  {
+    "f009_rg_iso_country": "COL",
+    "f009_rg_country_des": "Colombia",
+    "f009_rg_cod_web": "CO",
+    "f009_rg_region": "South America",
+    "f009_rg_continent": "South America",
+    "f009_rg_latitude": 4,
+    "f009_rg_longitude": -72,
+    "f009_rg_area": 8547403,
+    "f009_rg_population": 170115000
+  },
+  {
+    "f009_rg_iso_country": "CHN",
+    "f009_rg_country_des": "China",
+    "f009_rg_cod_web": "CN",
+    "f009_rg_region": "Eastern Asia",
+    "f009_rg_continent": "Asia",
+    "f009_rg_latitude": 35,
+    "f009_rg_longitude": 105,
+    "f009_rg_area": 1141748,
+    "f009_rg_population": 46029232
+  },
+  {
+    "f009_rg_iso_country": "FRA",
+    "f009_rg_country_des": "France",
+    "f009_rg_cod_web": "FR",
+    "f009_rg_region": "Western Europe",
+    "f009_rg_continent": "Europe",
+    "f009_rg_latitude": 47,
+    "f009_rg_longitude": 2,
+    "f009_rg_area": 9572900,
+    "f009_rg_population": 1277558000
+  },
+  {
+    "f009_rg_iso_country": "IND",
+    "f009_rg_country_des": "India",
+    "f009_rg_cod_web": "IN",
+    "f009_rg_region": "Southern and Central Asia",
+    "f009_rg_continent": "Asia",
+    "f009_rg_latitude": 28.47,
+    "f009_rg_longitude": 77.03,
+    "f009_rg_area": 551500,
+    "f009_rg_population": 59225700
+  },
+  {
+    "f009_rg_iso_country": "USA",
+    "f009_rg_country_des": "USA",
+    "f009_rg_cod_web": "US",
+    "f009_rg_region": "North America",
+    "f009_rg_continent": "North America",
+    "f009_rg_latitude": 38,
+    "f009_rg_longitude": -97,
+    "f009_rg_area": 3287263,
+    "f009_rg_population": 1013662000
+  },
+  {
+    "f009_rg_iso_country": "AFG",
+    "f009_rg_country_des": "Afganistán",
+    "f009_rg_cod_web": "AF",
+    "f009_rg_latitude": 33,
+    "f009_rg_longitude": 65,
+    "f009_rg_area": 9363520,
+    "f009_rg_population": 278357000
+  },
+  {
+    "f009_rg_iso_country": "ALB",
+    "f009_rg_country_des": "Albania",
+    "f009_rg_cod_web": "AL",
+    "f009_rg_latitude": 41.19,
+    "f009_rg_longitude": 19.49,
+    "f009_rg_population": 29121286
+  },
+  {
+    "f009_rg_iso_country": "DEU",
+    "f009_rg_country_des": "Alemania",
+    "f009_rg_cod_web": "DE",
+    "f009_rg_latitude": 51,
+    "f009_rg_longitude": 9,
+    "f009_rg_population": 2986952
+  },
+  {
+    "f009_rg_iso_country": "AND",
+    "f009_rg_country_des": "Andorra",
+    "f009_rg_cod_web": "AD",
+    "f009_rg_latitude": 42.3,
+    "f009_rg_longitude": 1.36,
+    "f009_rg_population": 81802257
+  },
+  {
+    "f009_rg_iso_country": "AGO",
+    "f009_rg_country_des": "Angola",
+    "f009_rg_cod_web": "AO",
+    "f009_rg_latitude": -12.3,
+    "f009_rg_longitude": 18.3,
+    "f009_rg_population": 84000
+  },
+  {
+    "f009_rg_iso_country": "AIA",
+    "f009_rg_country_des": "Anguila",
+    "f009_rg_cod_web": "AI",
+    "f009_rg_latitude": 18.15,
+    "f009_rg_longitude": -63.1,
+    "f009_rg_population": 13068161
+  },
+  {
+    "f009_rg_iso_country": "ATG",
+    "f009_rg_country_des": "Antigua y Barbuda",
+    "f009_rg_cod_web": "AG",
+    "f009_rg_latitude": 17.3,
+    "f009_rg_longitude": -61.48
+  },
+  {
+    "f009_rg_iso_country": "ANT",
+    "f009_rg_country_des": "Antillas Neerlandesas",
+    "f009_rg_cod_web": "AN",
+    "f009_rg_latitude": 12.15,
+    "f009_rg_longitude": -68.45,
+    "f009_rg_population": 86754
+  },
+  {
+    "f009_rg_iso_country": "SAU",
+    "f009_rg_country_des": "Arabia Saudita",
+    "f009_rg_cod_web": "SA",
+    "f009_rg_latitude": 25,
+    "f009_rg_longitude": 45
+  },
+  {
+    "f009_rg_iso_country": "DZA",
+    "f009_rg_country_des": "Argelia",
+    "f009_rg_cod_web": "DZ",
+    "f009_rg_latitude": 28,
+    "f009_rg_longitude": 3,
+    "f009_rg_population": 25731776
+  },
+  {
+    "f009_rg_iso_country": "ARG",
+    "f009_rg_country_des": "Argentina",
+    "f009_rg_cod_web": "AR",
+    "f009_rg_latitude": -34,
+    "f009_rg_longitude": -64,
+    "f009_rg_population": 34586184
+  },
+  {
+    "f009_rg_iso_country": "ARM",
+    "f009_rg_country_des": "Armenia",
+    "f009_rg_cod_web": "AM",
+    "f009_rg_latitude": 40,
+    "f009_rg_longitude": 45,
+    "f009_rg_population": 41343201
+  },
+  {
+    "f009_rg_iso_country": "ABW",
+    "f009_rg_country_des": "Aruba",
+    "f009_rg_cod_web": "AW",
+    "f009_rg_latitude": 12.3,
+    "f009_rg_longitude": -69.58,
+    "f009_rg_population": 2968000
+  },
+  {
+    "f009_rg_iso_country": "AUS",
+    "f009_rg_country_des": "Australia",
+    "f009_rg_cod_web": "AU",
+    "f009_rg_latitude": -27,
+    "f009_rg_longitude": 133
+  },
+  {
+    "f009_rg_iso_country": "AUT",
+    "f009_rg_country_des": "Austria",
+    "f009_rg_cod_web": "AT",
+    "f009_rg_latitude": 47.19,
+    "f009_rg_longitude": 13.19,
+    "f009_rg_population": 21515754
+  },
+  {
+    "f009_rg_iso_country": "AZE",
+    "f009_rg_country_des": "Azerbaiyán",
+    "f009_rg_cod_web": "AZ",
+    "f009_rg_latitude": 40.3,
+    "f009_rg_longitude": 47.3,
+    "f009_rg_population": 8205000
+  },
+  {
+    "f009_rg_iso_country": "BHS",
+    "f009_rg_country_des": "Bahamas",
+    "f009_rg_cod_web": "BS",
+    "f009_rg_latitude": 24.15,
+    "f009_rg_longitude": -76,
+    "f009_rg_population": 8303512
+  },
+  {
+    "f009_rg_iso_country": "BGD",
+    "f009_rg_country_des": "Bangladés",
+    "f009_rg_cod_web": "BD",
+    "f009_rg_latitude": 24,
+    "f009_rg_longitude": 90,
+    "f009_rg_population": 301790
+  },
+  {
+    "f009_rg_iso_country": "BRB",
+    "f009_rg_country_des": "Barbados",
+    "f009_rg_cod_web": "BB",
+    "f009_rg_latitude": 13.1,
+    "f009_rg_longitude": -59.31,
+    "f009_rg_population": 156118464
+  },
+  {
+    "f009_rg_iso_country": "BHR",
+    "f009_rg_country_des": "Baréin",
+    "f009_rg_cod_web": "BH",
+    "f009_rg_latitude": 26,
+    "f009_rg_longitude": 50.33,
+    "f009_rg_population": 285653
+  },
+  {
+    "f009_rg_iso_country": "BEL",
+    "f009_rg_country_des": "Bélgica",
+    "f009_rg_cod_web": "BE",
+    "f009_rg_latitude": 50.49,
+    "f009_rg_longitude": 4,
+    "f009_rg_population": 738004
+  },
+  {
+    "f009_rg_iso_country": "BLZ",
+    "f009_rg_country_des": "Belice",
+    "f009_rg_cod_web": "BZ",
+    "f009_rg_latitude": 17.15,
+    "f009_rg_longitude": -88.45,
+    "f009_rg_population": 10403000
+  },
+  {
+    "f009_rg_iso_country": "BEN",
+    "f009_rg_country_des": "Benín",
+    "f009_rg_cod_web": "BJ",
+    "f009_rg_latitude": 9.3,
+    "f009_rg_longitude": 2.15,
+    "f009_rg_population": 314522
+  },
+  {
+    "f009_rg_iso_country": "BMU",
+    "f009_rg_country_des": "Bermudas",
+    "f009_rg_cod_web": "BM",
+    "f009_rg_latitude": 32.19,
+    "f009_rg_longitude": -64.45,
+    "f009_rg_population": 9056010
+  },
+  {
+    "f009_rg_iso_country": "BLR",
+    "f009_rg_country_des": "Bielorrusia",
+    "f009_rg_cod_web": "BY",
+    "f009_rg_latitude": 53,
+    "f009_rg_longitude": 28
+  },
+  {
+    "f009_rg_iso_country": "BOL",
+    "f009_rg_country_des": "Bolivia",
+    "f009_rg_cod_web": "BO",
+    "f009_rg_latitude": -17,
+    "f009_rg_longitude": -65,
+    "f009_rg_population": 9685000
+  },
+  {
+    "f009_rg_iso_country": "BIH",
+    "f009_rg_country_des": "Bosnia y Herzegovina",
+    "f009_rg_cod_web": "BA",
+    "f009_rg_latitude": 44,
+    "f009_rg_longitude": 18,
+    "f009_rg_population": 9947418
+  },
+  {
+    "f009_rg_iso_country": "BWA",
+    "f009_rg_country_des": "Botsuana",
+    "f009_rg_cod_web": "BW",
+    "f009_rg_latitude": -22,
+    "f009_rg_longitude": 24,
+    "f009_rg_population": 4590000
+  },
+  {
+    "f009_rg_iso_country": "BRN",
+    "f009_rg_country_des": "Brunéi",
+    "f009_rg_cod_web": "BN",
+    "f009_rg_latitude": 4.3,
+    "f009_rg_longitude": 114.4,
+    "f009_rg_population": 2029307
+  },
+  {
+    "f009_rg_iso_country": "BGR",
+    "f009_rg_country_des": "Bulgaria",
+    "f009_rg_cod_web": "BG",
+    "f009_rg_latitude": 43,
+    "f009_rg_longitude": 25,
+    "f009_rg_population": 395027
+  },
+  {
+    "f009_rg_iso_country": "BFA",
+    "f009_rg_country_des": "Burkina Faso",
+    "f009_rg_cod_web": "BF",
+    "f009_rg_latitude": 13,
+    "f009_rg_longitude": -2,
+    "f009_rg_population": 7148785
+  },
+  {
+    "f009_rg_iso_country": "BDI",
+    "f009_rg_country_des": "Burundi",
+    "f009_rg_cod_web": "BI",
+    "f009_rg_latitude": -3.3,
+    "f009_rg_longitude": 30,
+    "f009_rg_population": 16241811
+  },
+  {
+    "f009_rg_iso_country": "BTN",
+    "f009_rg_country_des": "Bután",
+    "f009_rg_cod_web": "BT",
+    "f009_rg_latitude": 27.3,
+    "f009_rg_longitude": 90.3,
+    "f009_rg_population": 9863117
+  },
+  {
+    "f009_rg_iso_country": "CPV",
+    "f009_rg_country_des": "Cabo Verde",
+    "f009_rg_cod_web": "CV",
+    "f009_rg_latitude": 16,
+    "f009_rg_longitude": -24,
+    "f009_rg_population": 699847
+  },
+  {
+    "f009_rg_iso_country": "KHM",
+    "f009_rg_country_des": "Camboya",
+    "f009_rg_cod_web": "KH",
+    "f009_rg_latitude": 13,
+    "f009_rg_longitude": 105,
+    "f009_rg_population": 508659
+  },
+  {
+    "f009_rg_iso_country": "CMR",
+    "f009_rg_country_des": "Camerún",
+    "f009_rg_cod_web": "CM",
+    "f009_rg_latitude": 6,
+    "f009_rg_longitude": 12,
+    "f009_rg_population": 14453680
+  },
+  {
+    "f009_rg_iso_country": "CAN",
+    "f009_rg_country_des": "Canadá",
+    "f009_rg_cod_web": "CA",
+    "f009_rg_latitude": 60,
+    "f009_rg_longitude": -95,
+    "f009_rg_population": 19294149
+  },
+  {
+    "f009_rg_iso_country": "QAT",
+    "f009_rg_country_des": "Catar",
+    "f009_rg_cod_web": "QA",
+    "f009_rg_latitude": 25.3,
+    "f009_rg_longitude": 51.15,
+    "f009_rg_population": 33679000
+  },
+  {
+    "f009_rg_iso_country": "TCD",
+    "f009_rg_country_des": "Chad",
+    "f009_rg_cod_web": "TD",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": 19,
+    "f009_rg_population": 840926
+  },
+  {
+    "f009_rg_iso_country": "CHL",
+    "f009_rg_country_des": "Chile",
+    "f009_rg_cod_web": "CL",
+    "f009_rg_latitude": -30,
+    "f009_rg_longitude": -71,
+    "f009_rg_population": 10543464
+  },
+  {
+    "f009_rg_iso_country": "CYP",
+    "f009_rg_country_des": "Chipre",
+    "f009_rg_cod_web": "CY",
+    "f009_rg_latitude": 35,
+    "f009_rg_longitude": 33,
+    "f009_rg_population": 16746491
+  },
+  {
+    "f009_rg_iso_country": "COM",
+    "f009_rg_country_des": "Comoras",
+    "f009_rg_cod_web": "KM",
+    "f009_rg_latitude": -12.1,
+    "f009_rg_longitude": 44.15,
+    "f009_rg_population": 1102677
+  },
+  {
+    "f009_rg_iso_country": "PRK",
+    "f009_rg_country_des": "Corea del Norte",
+    "f009_rg_cod_web": "KP",
+    "f009_rg_latitude": 40,
+    "f009_rg_longitude": 127,
+    "f009_rg_population": 773407
+  },
+  {
+    "f009_rg_iso_country": "KOR",
+    "f009_rg_country_des": "Corea del Sur",
+    "f009_rg_cod_web": "KR",
+    "f009_rg_latitude": 37,
+    "f009_rg_longitude": 127.3,
+    "f009_rg_population": 22912177
+  },
+  {
+    "f009_rg_iso_country": "CIV",
+    "f009_rg_country_des": "Costa de Marfil",
+    "f009_rg_cod_web": "CI",
+    "f009_rg_latitude": 8,
+    "f009_rg_longitude": -5,
+    "f009_rg_population": 48422644
+  },
+  {
+    "f009_rg_iso_country": "CRI",
+    "f009_rg_country_des": "Costa Rica",
+    "f009_rg_cod_web": "CR",
+    "f009_rg_latitude": 10,
+    "f009_rg_longitude": -84,
+    "f009_rg_population": 21058798
+  },
+  {
+    "f009_rg_iso_country": "HRV",
+    "f009_rg_country_des": "Croacia",
+    "f009_rg_cod_web": "HR",
+    "f009_rg_latitude": 45.1,
+    "f009_rg_longitude": 15.3,
+    "f009_rg_population": 4516220
+  },
+  {
+    "f009_rg_iso_country": "CUB",
+    "f009_rg_country_des": "Cuba",
+    "f009_rg_cod_web": "CU",
+    "f009_rg_latitude": 21.3,
+    "f009_rg_longitude": -80,
+    "f009_rg_population": 4491000
+  },
+  {
+    "f009_rg_iso_country": "DNK",
+    "f009_rg_country_des": "Dinamarca",
+    "f009_rg_cod_web": "DK",
+    "f009_rg_latitude": 56,
+    "f009_rg_longitude": 10,
+    "f009_rg_population": 11423000
+  },
+  {
+    "f009_rg_iso_country": "DMA",
+    "f009_rg_country_des": "Dominica",
+    "f009_rg_cod_web": "DM",
+    "f009_rg_latitude": 15.25,
+    "f009_rg_longitude": -61.19,
+    "f009_rg_population": 5484000
+  },
+  {
+    "f009_rg_iso_country": "ECU",
+    "f009_rg_country_des": "Ecuador",
+    "f009_rg_cod_web": "EC",
+    "f009_rg_latitude": -2,
+    "f009_rg_longitude": -77.3,
+    "f009_rg_population": 72813
+  },
+  {
+    "f009_rg_iso_country": "EGY",
+    "f009_rg_country_des": "Egipto",
+    "f009_rg_cod_web": "EG",
+    "f009_rg_latitude": 27,
+    "f009_rg_longitude": 30,
+    "f009_rg_population": 14790608
+  },
+  {
+    "f009_rg_iso_country": "SLV",
+    "f009_rg_country_des": "El Salvador",
+    "f009_rg_cod_web": "SV",
+    "f009_rg_latitude": 13.49,
+    "f009_rg_longitude": -88.55,
+    "f009_rg_population": 80471869
+  },
+  {
+    "f009_rg_iso_country": "ARE",
+    "f009_rg_country_des": "Emiratos Árabes Unidos",
+    "f009_rg_cod_web": "AE",
+    "f009_rg_latitude": 24,
+    "f009_rg_longitude": 54,
+    "f009_rg_population": 6052064
+  },
+  {
+    "f009_rg_iso_country": "ERI",
+    "f009_rg_country_des": "Eritrea",
+    "f009_rg_cod_web": "ER",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": 39,
+    "f009_rg_population": 4975593
+  },
+  {
+    "f009_rg_iso_country": "SVK",
+    "f009_rg_country_des": "Eslovaquia",
+    "f009_rg_cod_web": "SK",
+    "f009_rg_latitude": 48.4,
+    "f009_rg_longitude": 19.3,
+    "f009_rg_population": 5792984
+  },
+  {
+    "f009_rg_iso_country": "SVN",
+    "f009_rg_country_des": "Eslovenia",
+    "f009_rg_cod_web": "SI",
+    "f009_rg_latitude": 46,
+    "f009_rg_longitude": 15,
+    "f009_rg_population": 5455000
+  },
+  {
+    "f009_rg_iso_country": "ESP",
+    "f009_rg_country_des": "España",
+    "f009_rg_cod_web": "ES",
+    "f009_rg_latitude": 40,
+    "f009_rg_longitude": -4,
+    "f009_rg_population": 2007000
+  },
+  {
+    "f009_rg_iso_country": "EST",
+    "f009_rg_country_des": "Estonia",
+    "f009_rg_cod_web": "EE",
+    "f009_rg_latitude": 59,
+    "f009_rg_longitude": 26,
+    "f009_rg_population": 46505963
+  },
+  {
+    "f009_rg_iso_country": "ETH",
+    "f009_rg_country_des": "Etiopía",
+    "f009_rg_cod_web": "ET",
+    "f009_rg_latitude": 8,
+    "f009_rg_longitude": 38,
+    "f009_rg_population": 1291170
+  },
+  {
+    "f009_rg_iso_country": "PHL",
+    "f009_rg_country_des": "Filipinas",
+    "f009_rg_cod_web": "PH",
+    "f009_rg_latitude": 13,
+    "f009_rg_longitude": 122,
+    "f009_rg_population": 88013491
+  },
+  {
+    "f009_rg_iso_country": "FIN",
+    "f009_rg_country_des": "Finlandia",
+    "f009_rg_cod_web": "FI",
+    "f009_rg_latitude": 64,
+    "f009_rg_longitude": 26,
+    "f009_rg_population": 99900177
+  },
+  {
+    "f009_rg_iso_country": "FJI",
+    "f009_rg_country_des": "Fiyi",
+    "f009_rg_cod_web": "FJ",
+    "f009_rg_latitude": -18,
+    "f009_rg_longitude": 175,
+    "f009_rg_population": 5244000
+  },
+  {
+    "f009_rg_iso_country": "GAB",
+    "f009_rg_country_des": "Gabón",
+    "f009_rg_cod_web": "GA",
+    "f009_rg_latitude": -1,
+    "f009_rg_longitude": 11.45,
+    "f009_rg_population": 875983
+  },
+  {
+    "f009_rg_iso_country": "GMB",
+    "f009_rg_country_des": "Gambia",
+    "f009_rg_cod_web": "GM",
+    "f009_rg_latitude": 13.28,
+    "f009_rg_longitude": -16.34,
+    "f009_rg_population": 1545255
+  },
+  {
+    "f009_rg_iso_country": "GEO",
+    "f009_rg_country_des": "Georgia",
+    "f009_rg_cod_web": "GE",
+    "f009_rg_latitude": 42,
+    "f009_rg_longitude": 43.3,
+    "f009_rg_population": 1593256
+  },
+  {
+    "f009_rg_iso_country": "GHA",
+    "f009_rg_country_des": "Ghana",
+    "f009_rg_cod_web": "GH",
+    "f009_rg_latitude": 8,
+    "f009_rg_longitude": -2,
+    "f009_rg_population": 4630000
+  },
+  {
+    "f009_rg_iso_country": "GIB",
+    "f009_rg_country_des": "Gibraltar",
+    "f009_rg_cod_web": "GI",
+    "f009_rg_latitude": 36.1,
+    "f009_rg_longitude": -5.22,
+    "f009_rg_population": 24339838
+  },
+  {
+    "f009_rg_iso_country": "GRD",
+    "f009_rg_country_des": "Granada",
+    "f009_rg_cod_web": "GD",
+    "f009_rg_latitude": 12.7,
+    "f009_rg_longitude": -61.4
+  },
+  {
+    "f009_rg_iso_country": "GRC",
+    "f009_rg_country_des": "Grecia",
+    "f009_rg_cod_web": "GR",
+    "f009_rg_latitude": 39,
+    "f009_rg_longitude": 22,
+    "f009_rg_population": 107818
+  },
+  {
+    "f009_rg_iso_country": "GRL",
+    "f009_rg_country_des": "Groenlandia",
+    "f009_rg_cod_web": "GL",
+    "f009_rg_latitude": 72,
+    "f009_rg_longitude": -40,
+    "f009_rg_population": 11000000
+  },
+  {
+    "f009_rg_iso_country": "GLP",
+    "f009_rg_country_des": "Guadalupe",
+    "f009_rg_cod_web": "GP",
+    "f009_rg_latitude": 16.15,
+    "f009_rg_longitude": -61.34
+  },
+  {
+    "f009_rg_iso_country": "GUM",
+    "f009_rg_country_des": "Guam",
+    "f009_rg_cod_web": "GU",
+    "f009_rg_latitude": 13.28,
+    "f009_rg_longitude": 144.46
+  },
+  {
+    "f009_rg_iso_country": "GTM",
+    "f009_rg_country_des": "Guatemala",
+    "f009_rg_cod_web": "GT",
+    "f009_rg_latitude": 15.3,
+    "f009_rg_longitude": -90.15
+  },
+  {
+    "f009_rg_iso_country": "GUF",
+    "f009_rg_country_des": "Guayana Francesa",
+    "f009_rg_cod_web": "GF",
+    "f009_rg_latitude": 4,
+    "f009_rg_longitude": -53,
+    "f009_rg_population": 13550440
+  },
+  {
+    "f009_rg_iso_country": "GGY",
+    "f009_rg_country_des": "Guernsey",
+    "f009_rg_cod_web": "GG",
+    "f009_rg_latitude": 49.3,
+    "f009_rg_longitude": -2.33
+  },
+  {
+    "f009_rg_iso_country": "GIN",
+    "f009_rg_country_des": "Guinea",
+    "f009_rg_cod_web": "GN",
+    "f009_rg_latitude": 11,
+    "f009_rg_longitude": -10
+  },
+  {
+    "f009_rg_iso_country": "GNB",
+    "f009_rg_country_des": "Guinea-Bisáu",
+    "f009_rg_cod_web": "GW",
+    "f009_rg_latitude": 12,
+    "f009_rg_longitude": -15,
+    "f009_rg_population": 10324025
+  },
+  {
+    "f009_rg_iso_country": "GNQ",
+    "f009_rg_country_des": "Guinea Ecuatorial",
+    "f009_rg_cod_web": "GQ",
+    "f009_rg_latitude": 2,
+    "f009_rg_longitude": 10,
+    "f009_rg_population": 1565126
+  },
+  {
+    "f009_rg_iso_country": "GUY",
+    "f009_rg_country_des": "Guyana",
+    "f009_rg_cod_web": "GY",
+    "f009_rg_latitude": 5,
+    "f009_rg_longitude": -59,
+    "f009_rg_population": 1014999
+  },
+  {
+    "f009_rg_iso_country": "HTI",
+    "f009_rg_country_des": "Haití",
+    "f009_rg_cod_web": "HT",
+    "f009_rg_latitude": 19,
+    "f009_rg_longitude": -72.25,
+    "f009_rg_population": 748486
+  },
+  {
+    "f009_rg_iso_country": "HND",
+    "f009_rg_country_des": "Honduras",
+    "f009_rg_cod_web": "HN",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": -86.3,
+    "f009_rg_population": 9648924
+  },
+  {
+    "f009_rg_iso_country": "HKG",
+    "f009_rg_country_des": "Hong Kong",
+    "f009_rg_cod_web": "HK",
+    "f009_rg_latitude": 22.15,
+    "f009_rg_longitude": 114.1,
+    "f009_rg_population": 7989415
+  },
+  {
+    "f009_rg_iso_country": "HUN",
+    "f009_rg_country_des": "Hungría",
+    "f009_rg_cod_web": "HU",
+    "f009_rg_latitude": 47,
+    "f009_rg_longitude": 20
+  },
+  {
+    "f009_rg_iso_country": "IDN",
+    "f009_rg_country_des": "Indonesia",
+    "f009_rg_cod_web": "ID",
+    "f009_rg_latitude": -5,
+    "f009_rg_longitude": 120,
+    "f009_rg_population": 9982000
+  },
+  {
+    "f009_rg_iso_country": "IRQ",
+    "f009_rg_country_des": "Irak",
+    "f009_rg_cod_web": "IQ",
+    "f009_rg_latitude": 33,
+    "f009_rg_longitude": 44,
+    "f009_rg_population": 242968342
+  },
+  {
+    "f009_rg_iso_country": "IRN",
+    "f009_rg_country_des": "Irán",
+    "f009_rg_cod_web": "IR",
+    "f009_rg_latitude": 32,
+    "f009_rg_longitude": 53,
+    "f009_rg_population": 29671605
+  },
+  {
+    "f009_rg_iso_country": "IRL",
+    "f009_rg_country_des": "Irlanda",
+    "f009_rg_cod_web": "IE",
+    "f009_rg_latitude": 53,
+    "f009_rg_longitude": -8,
+    "f009_rg_population": 76923300
+  },
+  {
+    "f009_rg_iso_country": "BVT",
+    "f009_rg_country_des": "Isla Bouvet",
+    "f009_rg_cod_web": "BV",
+    "f009_rg_latitude": -54.25,
+    "f009_rg_longitude": 3.24,
+    "f009_rg_population": 4622917
+  },
+  {
+    "f009_rg_iso_country": "IMN",
+    "f009_rg_country_des": "Isla de Man",
+    "f009_rg_cod_web": "IM",
+    "f009_rg_latitude": 54.13,
+    "f009_rg_longitude": -4.33
+  },
+  {
+    "f009_rg_iso_country": "CXR",
+    "f009_rg_country_des": "Isla de Navidad",
+    "f009_rg_cod_web": "CX",
+    "f009_rg_latitude": -10.3,
+    "f009_rg_longitude": 105.4
+  },
+  {
+    "f009_rg_iso_country": "ISL",
+    "f009_rg_country_des": "Islandia",
+    "f009_rg_cod_web": "IS",
+    "f009_rg_latitude": 65,
+    "f009_rg_longitude": -18
+  },
+  {
+    "f009_rg_iso_country": "CYM",
+    "f009_rg_country_des": "Islas Caimán",
+    "f009_rg_cod_web": "KY",
+    "f009_rg_latitude": 19.3,
+    "f009_rg_longitude": -80.3,
+    "f009_rg_population": 308910
+  },
+  {
+    "f009_rg_iso_country": "CCK",
+    "f009_rg_country_des": "Islas Cocos",
+    "f009_rg_cod_web": "CC",
+    "f009_rg_latitude": -12.3,
+    "f009_rg_longitude": 96.49
+  },
+  {
+    "f009_rg_iso_country": "COK",
+    "f009_rg_country_des": "Islas Cook",
+    "f009_rg_cod_web": "CK",
+    "f009_rg_latitude": -21.13,
+    "f009_rg_longitude": -159.46
+  },
+  {
+    "f009_rg_iso_country": "FRO",
+    "f009_rg_country_des": "Islas Feroe",
+    "f009_rg_cod_web": "FO",
+    "f009_rg_latitude": 62,
+    "f009_rg_longitude": -7
+  },
+  {
+    "f009_rg_iso_country": "SGS",
+    "f009_rg_country_des": "Islas Georgias del Sur y Sandwich del Sur",
+    "f009_rg_cod_web": "GS",
+    "f009_rg_latitude": -54.3,
+    "f009_rg_longitude": -37
+  },
+  {
+    "f009_rg_iso_country": "HMD",
+    "f009_rg_country_des": "Islas Heard y McDonald",
+    "f009_rg_cod_web": "HM",
+    "f009_rg_latitude": -53.6,
+    "f009_rg_longitude": 72.31
+  },
+  {
+    "f009_rg_iso_country": "FLK",
+    "f009_rg_country_des": "Islas Malvinas",
+    "f009_rg_cod_web": "FK",
+    "f009_rg_latitude": -51.45,
+    "f009_rg_longitude": -59
+  },
+  {
+    "f009_rg_iso_country": "MNP",
+    "f009_rg_country_des": "Islas Marianas del Norte",
+    "f009_rg_cod_web": "MP",
+    "f009_rg_latitude": 15.12,
+    "f009_rg_longitude": 145.45
+  },
+  {
+    "f009_rg_iso_country": "MHL",
+    "f009_rg_country_des": "Islas Marshall",
+    "f009_rg_cod_web": "MH",
+    "f009_rg_latitude": 9,
+    "f009_rg_longitude": 168
+  },
+  {
+    "f009_rg_iso_country": "PCN",
+    "f009_rg_country_des": "Islas Pitcairn",
+    "f009_rg_cod_web": "PN",
+    "f009_rg_latitude": -24.42,
+    "f009_rg_longitude": -127.24
+  },
+  {
+    "f009_rg_iso_country": "SLB",
+    "f009_rg_country_des": "Islas Salomón",
+    "f009_rg_cod_web": "SB",
+    "f009_rg_latitude": -8,
+    "f009_rg_longitude": 159
+  },
+  {
+    "f009_rg_iso_country": "TCA",
+    "f009_rg_country_des": "Islas Turcas y Caicos",
+    "f009_rg_cod_web": "TC",
+    "f009_rg_latitude": 21.45,
+    "f009_rg_longitude": -71.34,
+    "f009_rg_population": 559198
+  },
+  {
+    "f009_rg_iso_country": "VGB",
+    "f009_rg_country_des": "Islas Vírgenes Británicas",
+    "f009_rg_cod_web": "VG",
+    "f009_rg_latitude": 18.3,
+    "f009_rg_longitude": -64.3
+  },
+  {
+    "f009_rg_iso_country": "VIR",
+    "f009_rg_country_des": "Islas Vírgenes de los Estados Unidos",
+    "f009_rg_cod_web": "VI",
+    "f009_rg_latitude": 18.19,
+    "f009_rg_longitude": -64.49
+  },
+  {
+    "f009_rg_iso_country": "ISR",
+    "f009_rg_country_des": "Israel",
+    "f009_rg_cod_web": "IL",
+    "f009_rg_latitude": 31.3,
+    "f009_rg_longitude": 34.45
+  },
+  {
+    "f009_rg_iso_country": "ITA",
+    "f009_rg_country_des": "Italia",
+    "f009_rg_cod_web": "IT",
+    "f009_rg_latitude": 42.49,
+    "f009_rg_longitude": 12.49,
+    "f009_rg_population": 7353985
+  },
+  {
+    "f009_rg_iso_country": "JAM",
+    "f009_rg_country_des": "Jamaica",
+    "f009_rg_cod_web": "JM",
+    "f009_rg_latitude": 18.15,
+    "f009_rg_longitude": -77.3,
+    "f009_rg_population": 60340328
+  },
+  {
+    "f009_rg_iso_country": "JPN",
+    "f009_rg_country_des": "Japón",
+    "f009_rg_cod_web": "JP",
+    "f009_rg_latitude": 36,
+    "f009_rg_longitude": 138,
+    "f009_rg_population": 2847232
+  },
+  {
+    "f009_rg_iso_country": "JEY",
+    "f009_rg_country_des": "Jersey",
+    "f009_rg_cod_web": "JE",
+    "f009_rg_latitude": 49.12,
+    "f009_rg_longitude": -2.7,
+    "f009_rg_population": 127288000
+  },
+  {
+    "f009_rg_iso_country": "JOR",
+    "f009_rg_country_des": "Jordania",
+    "f009_rg_cod_web": "JO",
+    "f009_rg_latitude": 31,
+    "f009_rg_longitude": 36
+  },
+  {
+    "f009_rg_iso_country": "KAZ",
+    "f009_rg_country_des": "Kazajistán",
+    "f009_rg_cod_web": "KZ",
+    "f009_rg_latitude": 48,
+    "f009_rg_longitude": 68,
+    "f009_rg_population": 6407085
+  },
+  {
+    "f009_rg_iso_country": "KEN",
+    "f009_rg_country_des": "Kenia",
+    "f009_rg_cod_web": "KE",
+    "f009_rg_latitude": 1,
+    "f009_rg_longitude": 38,
+    "f009_rg_population": 15340000
+  },
+  {
+    "f009_rg_iso_country": "KGZ",
+    "f009_rg_country_des": "Kirguistán",
+    "f009_rg_cod_web": "KG",
+    "f009_rg_latitude": 41,
+    "f009_rg_longitude": 75,
+    "f009_rg_population": 40046566
+  },
+  {
+    "f009_rg_iso_country": "KIR",
+    "f009_rg_country_des": "Kiribati",
+    "f009_rg_cod_web": "KI",
+    "f009_rg_latitude": 1.25,
+    "f009_rg_longitude": 173,
+    "f009_rg_population": 5508626
+  },
+  {
+    "f009_rg_iso_country": "KWT",
+    "f009_rg_country_des": "Kuwait",
+    "f009_rg_cod_web": "KW",
+    "f009_rg_latitude": 29.2,
+    "f009_rg_longitude": 47.39,
+    "f009_rg_population": 92533
+  },
+  {
+    "f009_rg_iso_country": "LAO",
+    "f009_rg_country_des": "Laos",
+    "f009_rg_cod_web": "LA",
+    "f009_rg_latitude": 18,
+    "f009_rg_longitude": 105,
+    "f009_rg_population": 2789132
+  },
+  {
+    "f009_rg_iso_country": "LSO",
+    "f009_rg_country_des": "Lesoto",
+    "f009_rg_cod_web": "LS",
+    "f009_rg_latitude": -29.3,
+    "f009_rg_longitude": 28.3,
+    "f009_rg_population": 6368162
+  },
+  {
+    "f009_rg_iso_country": "LVA",
+    "f009_rg_country_des": "Letonia",
+    "f009_rg_cod_web": "LV",
+    "f009_rg_latitude": 57,
+    "f009_rg_longitude": 25,
+    "f009_rg_population": 1919552
+  },
+  {
+    "f009_rg_iso_country": "LBN",
+    "f009_rg_country_des": "Líbano",
+    "f009_rg_cod_web": "LB",
+    "f009_rg_latitude": 33.49,
+    "f009_rg_longitude": 35.49,
+    "f009_rg_population": 2217969
+  },
+  {
+    "f009_rg_iso_country": "LBR",
+    "f009_rg_country_des": "Liberia",
+    "f009_rg_cod_web": "LR",
+    "f009_rg_latitude": 6.3,
+    "f009_rg_longitude": -9.3,
+    "f009_rg_population": 4125247
+  },
+  {
+    "f009_rg_iso_country": "LBY",
+    "f009_rg_country_des": "Libia",
+    "f009_rg_cod_web": "LY",
+    "f009_rg_latitude": 25,
+    "f009_rg_longitude": 17,
+    "f009_rg_population": 3685076
+  },
+  {
+    "f009_rg_iso_country": "LIE",
+    "f009_rg_country_des": "Liechtenstein",
+    "f009_rg_cod_web": "LI",
+    "f009_rg_latitude": 47.1,
+    "f009_rg_longitude": 9.31,
+    "f009_rg_population": 6461454
+  },
+  {
+    "f009_rg_iso_country": "LTU",
+    "f009_rg_country_des": "Lituania",
+    "f009_rg_cod_web": "LT",
+    "f009_rg_latitude": 56,
+    "f009_rg_longitude": 24,
+    "f009_rg_population": 35000
+  },
+  {
+    "f009_rg_iso_country": "LUX",
+    "f009_rg_country_des": "Luxemburgo",
+    "f009_rg_cod_web": "LU",
+    "f009_rg_latitude": 49.45,
+    "f009_rg_longitude": 6.1,
+    "f009_rg_population": 2944459
+  },
+  {
+    "f009_rg_iso_country": "MAC",
+    "f009_rg_country_des": "Macao",
+    "f009_rg_cod_web": "MO",
+    "f009_rg_latitude": 22.1,
+    "f009_rg_longitude": 113.33,
+    "f009_rg_population": 497538
+  },
+  {
+    "f009_rg_iso_country": "MDG",
+    "f009_rg_country_des": "Madagascar",
+    "f009_rg_cod_web": "MG",
+    "f009_rg_latitude": -20,
+    "f009_rg_longitude": 47
+  },
+  {
+    "f009_rg_iso_country": "MYS",
+    "f009_rg_country_des": "Malasia",
+    "f009_rg_cod_web": "MY",
+    "f009_rg_latitude": 2.3,
+    "f009_rg_longitude": 112.3,
+    "f009_rg_population": 21281844
+  },
+  {
+    "f009_rg_iso_country": "MWI",
+    "f009_rg_country_des": "Malaui",
+    "f009_rg_cod_web": "MW",
+    "f009_rg_latitude": -13.3,
+    "f009_rg_longitude": 34,
+    "f009_rg_population": 28274729
+  },
+  {
+    "f009_rg_iso_country": "MDV",
+    "f009_rg_country_des": "Maldivas",
+    "f009_rg_cod_web": "MV",
+    "f009_rg_latitude": 3.15,
+    "f009_rg_longitude": 73,
+    "f009_rg_population": 15447500
+  },
+  {
+    "f009_rg_iso_country": "MLI",
+    "f009_rg_country_des": "Malí",
+    "f009_rg_cod_web": "ML",
+    "f009_rg_latitude": 17,
+    "f009_rg_longitude": -4,
+    "f009_rg_population": 395650
+  },
+  {
+    "f009_rg_iso_country": "MLT",
+    "f009_rg_country_des": "Malta",
+    "f009_rg_cod_web": "MT",
+    "f009_rg_latitude": 35.49,
+    "f009_rg_longitude": 14.34,
+    "f009_rg_population": 13796354
+  },
+  {
+    "f009_rg_iso_country": "MAR",
+    "f009_rg_country_des": "Marruecos",
+    "f009_rg_cod_web": "MA",
+    "f009_rg_latitude": 32,
+    "f009_rg_longitude": -5,
+    "f009_rg_population": 403000
+  },
+  {
+    "f009_rg_iso_country": "MTQ",
+    "f009_rg_country_des": "Martinica",
+    "f009_rg_cod_web": "MQ",
+    "f009_rg_latitude": 14.4,
+    "f009_rg_longitude": -61,
+    "f009_rg_population": 31627428
+  },
+  {
+    "f009_rg_iso_country": "MUS",
+    "f009_rg_country_des": "Mauricio",
+    "f009_rg_cod_web": "MU",
+    "f009_rg_latitude": -20.16,
+    "f009_rg_longitude": 57.33
+  },
+  {
+    "f009_rg_iso_country": "MRT",
+    "f009_rg_country_des": "Mauritania",
+    "f009_rg_cod_web": "MR",
+    "f009_rg_latitude": 20,
+    "f009_rg_longitude": -12,
+    "f009_rg_population": 1294104
+  },
+  {
+    "f009_rg_iso_country": "MYT",
+    "f009_rg_country_des": "Mayotte",
+    "f009_rg_cod_web": "YT",
+    "f009_rg_latitude": -12.49,
+    "f009_rg_longitude": 45.1,
+    "f009_rg_population": 3205060
+  },
+  {
+    "f009_rg_iso_country": "MEX",
+    "f009_rg_country_des": "México",
+    "f009_rg_cod_web": "MX",
+    "f009_rg_latitude": 23,
+    "f009_rg_longitude": -102
+  },
+  {
+    "f009_rg_iso_country": "FSM",
+    "f009_rg_country_des": "Micronesia",
+    "f009_rg_cod_web": "FM",
+    "f009_rg_latitude": 6.55,
+    "f009_rg_longitude": 158.15,
+    "f009_rg_population": 112468855
+  },
+  {
+    "f009_rg_iso_country": "MDA",
+    "f009_rg_country_des": "Moldavia",
+    "f009_rg_cod_web": "MD",
+    "f009_rg_latitude": 47,
+    "f009_rg_longitude": 29
+  },
+  {
+    "f009_rg_iso_country": "MCO",
+    "f009_rg_country_des": "Mónaco",
+    "f009_rg_cod_web": "MC",
+    "f009_rg_latitude": 43.43,
+    "f009_rg_longitude": 7.24,
+    "f009_rg_population": 4324000
+  },
+  {
+    "f009_rg_iso_country": "MNG",
+    "f009_rg_country_des": "Mongolia",
+    "f009_rg_cod_web": "MN",
+    "f009_rg_latitude": 46,
+    "f009_rg_longitude": 105,
+    "f009_rg_population": 32965
+  },
+  {
+    "f009_rg_iso_country": "MNE",
+    "f009_rg_country_des": "Montenegro",
+    "f009_rg_cod_web": "ME",
+    "f009_rg_latitude": 42,
+    "f009_rg_longitude": 19,
+    "f009_rg_population": 3086918
+  },
+  {
+    "f009_rg_iso_country": "MSR",
+    "f009_rg_country_des": "Montserrat",
+    "f009_rg_cod_web": "MS",
+    "f009_rg_latitude": 16.45,
+    "f009_rg_longitude": -62.12,
+    "f009_rg_population": 666730
+  },
+  {
+    "f009_rg_iso_country": "MOZ",
+    "f009_rg_country_des": "Mozambique",
+    "f009_rg_cod_web": "MZ",
+    "f009_rg_latitude": -18.15,
+    "f009_rg_longitude": 35
+  },
+  {
+    "f009_rg_iso_country": "NAM",
+    "f009_rg_country_des": "Namibia",
+    "f009_rg_cod_web": "NA",
+    "f009_rg_latitude": -22,
+    "f009_rg_longitude": 17,
+    "f009_rg_population": 22061451
+  },
+  {
+    "f009_rg_iso_country": "NRU",
+    "f009_rg_country_des": "Nauru",
+    "f009_rg_cod_web": "NR",
+    "f009_rg_latitude": -0.31,
+    "f009_rg_longitude": 166.55,
+    "f009_rg_population": 2128471
+  },
+  {
+    "f009_rg_iso_country": "NPL",
+    "f009_rg_country_des": "Nepal",
+    "f009_rg_cod_web": "NP",
+    "f009_rg_latitude": 28,
+    "f009_rg_longitude": 84,
+    "f009_rg_population": 10065
+  },
+  {
+    "f009_rg_iso_country": "NIC",
+    "f009_rg_country_des": "Nicaragua",
+    "f009_rg_cod_web": "NI",
+    "f009_rg_latitude": 13,
+    "f009_rg_longitude": -85,
+    "f009_rg_population": 28951852
+  },
+  {
+    "f009_rg_iso_country": "NER",
+    "f009_rg_country_des": "Níger",
+    "f009_rg_cod_web": "NE",
+    "f009_rg_latitude": 16,
+    "f009_rg_longitude": 8,
+    "f009_rg_population": 5995928
+  },
+  {
+    "f009_rg_iso_country": "NGA",
+    "f009_rg_country_des": "Nigeria",
+    "f009_rg_cod_web": "NG",
+    "f009_rg_latitude": 10,
+    "f009_rg_longitude": 8,
+    "f009_rg_population": 15878271
+  },
+  {
+    "f009_rg_iso_country": "NIU",
+    "f009_rg_country_des": "Niue",
+    "f009_rg_cod_web": "NU",
+    "f009_rg_latitude": -19.1,
+    "f009_rg_longitude": -169.52,
+    "f009_rg_population": 154000000
+  },
+  {
+    "f009_rg_iso_country": "NFK",
+    "f009_rg_country_des": "Norfolk",
+    "f009_rg_cod_web": "NF",
+    "f009_rg_latitude": -29.1,
+    "f009_rg_longitude": 167.57
+  },
+  {
+    "f009_rg_iso_country": "NOR",
+    "f009_rg_country_des": "Noruega",
+    "f009_rg_cod_web": "NO",
+    "f009_rg_latitude": 62,
+    "f009_rg_longitude": 10
+  },
+  {
+    "f009_rg_iso_country": "NCL",
+    "f009_rg_country_des": "Nueva Caledonia",
+    "f009_rg_cod_web": "NC",
+    "f009_rg_latitude": -21.3,
+    "f009_rg_longitude": 165.3,
+    "f009_rg_population": 5009150
+  },
+  {
+    "f009_rg_iso_country": "NZL",
+    "f009_rg_country_des": "Nueva Zelanda",
+    "f009_rg_cod_web": "NZ",
+    "f009_rg_latitude": -41,
+    "f009_rg_longitude": 174
+  },
+  {
+    "f009_rg_iso_country": "OMN",
+    "f009_rg_country_des": "Omán",
+    "f009_rg_cod_web": "OM",
+    "f009_rg_latitude": 21,
+    "f009_rg_longitude": 57,
+    "f009_rg_population": 4252277
+  },
+  {
+    "f009_rg_iso_country": "NLD",
+    "f009_rg_country_des": "Países Bajos",
+    "f009_rg_cod_web": "NL",
+    "f009_rg_latitude": 52.3,
+    "f009_rg_longitude": 5.45,
+    "f009_rg_population": 2967717
+  },
+  {
+    "f009_rg_iso_country": "PAK",
+    "f009_rg_country_des": "Pakistán",
+    "f009_rg_cod_web": "PK",
+    "f009_rg_latitude": 30,
+    "f009_rg_longitude": 70,
+    "f009_rg_population": 16645000
+  },
+  {
+    "f009_rg_iso_country": "PLW",
+    "f009_rg_country_des": "Palaos",
+    "f009_rg_cod_web": "PW",
+    "f009_rg_latitude": 7.3,
+    "f009_rg_longitude": 134.3,
+    "f009_rg_population": 184404791
+  },
+  {
+    "f009_rg_iso_country": "PAN",
+    "f009_rg_country_des": "Panamá",
+    "f009_rg_cod_web": "PA",
+    "f009_rg_latitude": 9,
+    "f009_rg_longitude": -80
+  },
+  {
+    "f009_rg_iso_country": "PNG",
+    "f009_rg_country_des": "Papúa Nueva Guinea",
+    "f009_rg_cod_web": "PNG",
+    "f009_rg_latitude": -6,
+    "f009_rg_longitude": 147,
+    "f009_rg_population": 3410676
+  },
+  {
+    "f009_rg_iso_country": "PRY",
+    "f009_rg_country_des": "Paraguay",
+    "f009_rg_cod_web": "PY",
+    "f009_rg_latitude": -23,
+    "f009_rg_longitude": -58,
+    "f009_rg_population": 6064515
+  },
+  {
+    "f009_rg_iso_country": "PER",
+    "f009_rg_country_des": "Perú",
+    "f009_rg_cod_web": "PE",
+    "f009_rg_latitude": -10,
+    "f009_rg_longitude": -76,
+    "f009_rg_population": 6375830
+  },
+  {
+    "f009_rg_iso_country": "PYF",
+    "f009_rg_country_des": "Polinesia Francesa",
+    "f009_rg_cod_web": "PF",
+    "f009_rg_latitude": -15,
+    "f009_rg_longitude": -140,
+    "f009_rg_population": 29907003
+  },
+  {
+    "f009_rg_iso_country": "POL",
+    "f009_rg_country_des": "Polonia",
+    "f009_rg_cod_web": "PL",
+    "f009_rg_latitude": 52,
+    "f009_rg_longitude": 20
+  },
+  {
+    "f009_rg_iso_country": "PRT",
+    "f009_rg_country_des": "Portugal",
+    "f009_rg_cod_web": "PT",
+    "f009_rg_latitude": 39.3,
+    "f009_rg_longitude": -8,
+    "f009_rg_population": 38500000
+  },
+  {
+    "f009_rg_iso_country": "PRI",
+    "f009_rg_country_des": "Puerto Rico",
+    "f009_rg_cod_web": "PR",
+    "f009_rg_latitude": 18.15,
+    "f009_rg_longitude": -66.3,
+    "f009_rg_population": 10676000
+  },
+  {
+    "f009_rg_iso_country": "GBR",
+    "f009_rg_country_des": "Reino Unido",
+    "f009_rg_cod_web": "GB",
+    "f009_rg_latitude": 54,
+    "f009_rg_longitude": -2
+  },
+  {
+    "f009_rg_iso_country": "COD",
+    "f009_rg_country_des": "República Democrática del Congo",
+    "f009_rg_cod_web": "CD",
+    "f009_rg_latitude": 0,
+    "f009_rg_longitude": 25,
+    "f009_rg_population": 62348447
+  },
+  {
+    "f009_rg_iso_country": "ESH",
+    "f009_rg_country_des": "República Árabe Saharaui Democrática",
+    "f009_rg_cod_web": "EH",
+    "f009_rg_latitude": 24.3,
+    "f009_rg_longitude": -13,
+    "f009_rg_population": 70916439
+  },
+  {
+    "f009_rg_iso_country": "CAF",
+    "f009_rg_country_des": "República Centroafricana",
+    "f009_rg_cod_web": "CF",
+    "f009_rg_latitude": 7,
+    "f009_rg_longitude": 21
+  },
+  {
+    "f009_rg_iso_country": "CZE",
+    "f009_rg_country_des": "República Checa",
+    "f009_rg_cod_web": "CZ",
+    "f009_rg_latitude": 49.45,
+    "f009_rg_longitude": 15.3,
+    "f009_rg_population": 4844927
+  },
+  {
+    "f009_rg_iso_country": "DOM",
+    "f009_rg_country_des": "República Dominicana",
+    "f009_rg_cod_web": "DO",
+    "f009_rg_latitude": 19,
+    "f009_rg_longitude": -70.4,
+    "f009_rg_population": 10476000
+  },
+  {
+    "f009_rg_iso_country": "REU",
+    "f009_rg_country_des": "Reunión",
+    "f009_rg_cod_web": "RE",
+    "f009_rg_latitude": -21.6,
+    "f009_rg_longitude": 55.36,
+    "f009_rg_population": 9823821
+  },
+  {
+    "f009_rg_iso_country": "RWA",
+    "f009_rg_country_des": "Ruanda",
+    "f009_rg_cod_web": "RW",
+    "f009_rg_latitude": -2,
+    "f009_rg_longitude": 30
+  },
+  {
+    "f009_rg_iso_country": "ROU",
+    "f009_rg_country_des": "Rumania",
+    "f009_rg_cod_web": "RO",
+    "f009_rg_latitude": 46,
+    "f009_rg_longitude": 25,
+    "f009_rg_population": 11055976
+  },
+  {
+    "f009_rg_iso_country": "RUS",
+    "f009_rg_country_des": "Rusia",
+    "f009_rg_cod_web": "RU",
+    "f009_rg_latitude": 60,
+    "f009_rg_longitude": 100,
+    "f009_rg_population": 21959278
+  },
+  {
+    "f009_rg_iso_country": "WSM",
+    "f009_rg_country_des": "Samoa",
+    "f009_rg_cod_web": "WS",
+    "f009_rg_latitude": -13.34,
+    "f009_rg_longitude": -172.19,
+    "f009_rg_population": 140702000
+  },
+  {
+    "f009_rg_iso_country": "ASM",
+    "f009_rg_country_des": "Samoa Americana",
+    "f009_rg_cod_web": "AS",
+    "f009_rg_latitude": -14.19,
+    "f009_rg_longitude": -170,
+    "f009_rg_population": 192001
+  },
+  {
+    "f009_rg_iso_country": "KNA",
+    "f009_rg_country_des": "San Cristóbal y Nieves",
+    "f009_rg_cod_web": "KN",
+    "f009_rg_latitude": 17.19,
+    "f009_rg_longitude": -62.45
+  },
+  {
+    "f009_rg_iso_country": "SMR",
+    "f009_rg_country_des": "San Marino",
+    "f009_rg_cod_web": "SM",
+    "f009_rg_latitude": 43.46,
+    "f009_rg_longitude": 12.25,
+    "f009_rg_population": 51134
+  },
+  {
+    "f009_rg_iso_country": "SPM",
+    "f009_rg_country_des": "San Pedro y Miquelón",
+    "f009_rg_cod_web": "PM",
+    "f009_rg_latitude": 46.49,
+    "f009_rg_longitude": -56.19,
+    "f009_rg_population": 31477
+  },
+  {
+    "f009_rg_iso_country": "VCT",
+    "f009_rg_country_des": "San Vicente y las Granadinas",
+    "f009_rg_cod_web": "VC",
+    "f009_rg_latitude": 13.15,
+    "f009_rg_longitude": -61.12
+  },
+  {
+    "f009_rg_iso_country": "SHN",
+    "f009_rg_country_des": "Santa Elena",
+    "f009_rg_cod_web": "SH",
+    "f009_rg_latitude": 15.55,
+    "f009_rg_longitude": -5.43,
+    "f009_rg_population": 104217
+  },
+  {
+    "f009_rg_iso_country": "LCA",
+    "f009_rg_country_des": "Santa Lucía",
+    "f009_rg_cod_web": "LC",
+    "f009_rg_latitude": 13.52,
+    "f009_rg_longitude": -61.7,
+    "f009_rg_population": -15.55
+  },
+  {
+    "f009_rg_iso_country": "STP",
+    "f009_rg_country_des": "Santo Tomé y Príncipe",
+    "f009_rg_cod_web": "ST",
+    "f009_rg_latitude": 1,
+    "f009_rg_longitude": 7,
+    "f009_rg_population": 160922
+  },
+  {
+    "f009_rg_iso_country": "SEN",
+    "f009_rg_country_des": "Senegal",
+    "f009_rg_cod_web": "SN",
+    "f009_rg_latitude": 14,
+    "f009_rg_longitude": -14,
+    "f009_rg_population": 175808
+  },
+  {
+    "f009_rg_iso_country": "SRB",
+    "f009_rg_country_des": "Serbia",
+    "f009_rg_cod_web": "RS",
+    "f009_rg_latitude": 44,
+    "f009_rg_longitude": 21,
+    "f009_rg_population": 12323252
+  },
+  {
+    "f009_rg_iso_country": "SYC",
+    "f009_rg_country_des": "Seychelles",
+    "f009_rg_cod_web": "SC",
+    "f009_rg_latitude": -4.34,
+    "f009_rg_longitude": 55.4,
+    "f009_rg_population": 7344847
+  },
+  {
+    "f009_rg_iso_country": "SLE",
+    "f009_rg_country_des": "Sierra Leona",
+    "f009_rg_cod_web": "SL",
+    "f009_rg_latitude": 8.3,
+    "f009_rg_longitude": -11.3,
+    "f009_rg_population": 88340
+  },
+  {
+    "f009_rg_iso_country": "SGP",
+    "f009_rg_country_des": "Singapur",
+    "f009_rg_cod_web": "SG",
+    "f009_rg_latitude": 1.22,
+    "f009_rg_longitude": 103.48,
+    "f009_rg_population": 5245695
+  },
+  {
+    "f009_rg_iso_country": "SYR",
+    "f009_rg_country_des": "Siria",
+    "f009_rg_cod_web": "SY",
+    "f009_rg_latitude": 35,
+    "f009_rg_longitude": 38,
+    "f009_rg_population": 4701069
+  },
+  {
+    "f009_rg_iso_country": "SOM",
+    "f009_rg_country_des": "Somalia",
+    "f009_rg_cod_web": "SO",
+    "f009_rg_latitude": 10,
+    "f009_rg_longitude": 49,
+    "f009_rg_population": 22198110
+  },
+  {
+    "f009_rg_iso_country": "LKA",
+    "f009_rg_country_des": "Sri Lanka",
+    "f009_rg_cod_web": "LK",
+    "f009_rg_latitude": 7,
+    "f009_rg_longitude": 81,
+    "f009_rg_population": 10112453
+  },
+  {
+    "f009_rg_iso_country": "ZAF",
+    "f009_rg_country_des": "Sudáfrica",
+    "f009_rg_cod_web": "ZA",
+    "f009_rg_latitude": -29,
+    "f009_rg_longitude": 24,
+    "f009_rg_population": 21513990
+  },
+  {
+    "f009_rg_iso_country": "SDN",
+    "f009_rg_country_des": "Sudán",
+    "f009_rg_cod_web": "SD",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": 30,
+    "f009_rg_population": 49000000
+  },
+  {
+    "f009_rg_iso_country": "SWE",
+    "f009_rg_country_des": "Suecia",
+    "f009_rg_cod_web": "SE",
+    "f009_rg_latitude": 62,
+    "f009_rg_longitude": 15,
+    "f009_rg_population": 35000000
+  },
+  {
+    "f009_rg_iso_country": "CHE",
+    "f009_rg_country_des": "Suiza",
+    "f009_rg_cod_web": "CH",
+    "f009_rg_latitude": 47,
+    "f009_rg_longitude": 8,
+    "f009_rg_population": 9555893
+  },
+  {
+    "f009_rg_iso_country": "SUR",
+    "f009_rg_country_des": "Surinam",
+    "f009_rg_cod_web": "SR",
+    "f009_rg_latitude": 4,
+    "f009_rg_longitude": -56,
+    "f009_rg_population": 7581000
+  },
+  {
+    "f009_rg_iso_country": "SJM",
+    "f009_rg_country_des": "Svalbard y Jan Mayen",
+    "f009_rg_cod_web": "SJ",
+    "f009_rg_latitude": 78,
+    "f009_rg_longitude": 20,
+    "f009_rg_population": 492829
+  },
+  {
+    "f009_rg_iso_country": "THA",
+    "f009_rg_country_des": "Tailandia",
+    "f009_rg_cod_web": "TH",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": 100
+  },
+  {
+    "f009_rg_iso_country": "TWN",
+    "f009_rg_country_des": "Taiwán",
+    "f009_rg_cod_web": "TW",
+    "f009_rg_latitude": 23.3,
+    "f009_rg_longitude": 121,
+    "f009_rg_population": 67089500
+  },
+  {
+    "f009_rg_iso_country": "TZA",
+    "f009_rg_country_des": "Tanzania",
+    "f009_rg_cod_web": "TZ",
+    "f009_rg_latitude": -6,
+    "f009_rg_longitude": 35,
+    "f009_rg_population": 22894384
+  },
+  {
+    "f009_rg_iso_country": "TJK",
+    "f009_rg_country_des": "Tayikistán",
+    "f009_rg_cod_web": "TJ",
+    "f009_rg_latitude": 39,
+    "f009_rg_longitude": 71,
+    "f009_rg_population": 41892895
+  },
+  {
+    "f009_rg_iso_country": "IOT",
+    "f009_rg_country_des": "Territorio Británico del Océano Índico",
+    "f009_rg_cod_web": "IO",
+    "f009_rg_latitude": -6,
+    "f009_rg_longitude": 71.3,
+    "f009_rg_population": 7487489
+  },
+  {
+    "f009_rg_iso_country": "ATF",
+    "f009_rg_country_des": "Territorios Australes Franceses",
+    "f009_rg_cod_web": "TF",
+    "f009_rg_latitude": -43,
+    "f009_rg_longitude": 67
+  },
+  {
+    "f009_rg_iso_country": "TLS",
+    "f009_rg_country_des": "Timor Oriental",
+    "f009_rg_cod_web": "TL",
+    "f009_rg_latitude": -8.33,
+    "f009_rg_longitude": 125.31
+  },
+  {
+    "f009_rg_iso_country": "TGO",
+    "f009_rg_country_des": "Togo",
+    "f009_rg_cod_web": "TG",
+    "f009_rg_latitude": 8,
+    "f009_rg_longitude": 1.1,
+    "f009_rg_population": 1154625
+  },
+  {
+    "f009_rg_iso_country": "TKL",
+    "f009_rg_country_des": "Tokelau",
+    "f009_rg_cod_web": "TK",
+    "f009_rg_latitude": -9,
+    "f009_rg_longitude": -172,
+    "f009_rg_population": 6587239
+  },
+  {
+    "f009_rg_iso_country": "TON",
+    "f009_rg_country_des": "Tonga",
+    "f009_rg_cod_web": "TO",
+    "f009_rg_latitude": -20,
+    "f009_rg_longitude": -175
+  },
+  {
+    "f009_rg_iso_country": "TTO",
+    "f009_rg_country_des": "Trinidad y Tobago",
+    "f009_rg_cod_web": "TT",
+    "f009_rg_latitude": 11,
+    "f009_rg_longitude": -61,
+    "f009_rg_population": 122580
+  },
+  {
+    "f009_rg_iso_country": "TUN",
+    "f009_rg_country_des": "Túnez",
+    "f009_rg_cod_web": "TN",
+    "f009_rg_latitude": 34,
+    "f009_rg_longitude": 9,
+    "f009_rg_population": 1228691
+  },
+  {
+    "f009_rg_iso_country": "TKM",
+    "f009_rg_country_des": "Turkmenistán",
+    "f009_rg_cod_web": "TM",
+    "f009_rg_latitude": 40,
+    "f009_rg_longitude": 60,
+    "f009_rg_population": 10589025
+  },
+  {
+    "f009_rg_iso_country": "TUR",
+    "f009_rg_country_des": "Turquía",
+    "f009_rg_cod_web": "TR",
+    "f009_rg_latitude": 39,
+    "f009_rg_longitude": 35,
+    "f009_rg_population": 4940916
+  },
+  {
+    "f009_rg_iso_country": "TUV",
+    "f009_rg_country_des": "Tuvalu",
+    "f009_rg_cod_web": "TV",
+    "f009_rg_latitude": -8,
+    "f009_rg_longitude": 178,
+    "f009_rg_population": 77804122
+  },
+  {
+    "f009_rg_iso_country": "UKR",
+    "f009_rg_country_des": "Ucrania",
+    "f009_rg_cod_web": "UA",
+    "f009_rg_latitude": 49,
+    "f009_rg_longitude": 32,
+    "f009_rg_population": 10472
+  },
+  {
+    "f009_rg_iso_country": "UGA",
+    "f009_rg_country_des": "Uganda",
+    "f009_rg_cod_web": "UG",
+    "f009_rg_latitude": 1,
+    "f009_rg_longitude": 32,
+    "f009_rg_population": 45415596
+  },
+  {
+    "f009_rg_iso_country": "URY",
+    "f009_rg_country_des": "Uruguay",
+    "f009_rg_cod_web": "UY",
+    "f009_rg_latitude": -33,
+    "f009_rg_longitude": -56,
+    "f009_rg_population": 33398682
+  },
+  {
+    "f009_rg_iso_country": "UZB",
+    "f009_rg_country_des": "Uzbekistán",
+    "f009_rg_cod_web": "UZ",
+    "f009_rg_latitude": 41,
+    "f009_rg_longitude": 64,
+    "f009_rg_population": 3477000
+  },
+  {
+    "f009_rg_iso_country": "VUT",
+    "f009_rg_country_des": "Vanuatu",
+    "f009_rg_cod_web": "VU",
+    "f009_rg_latitude": -16,
+    "f009_rg_longitude": 167,
+    "f009_rg_population": 27865738
+  },
+  {
+    "f009_rg_iso_country": "VEN",
+    "f009_rg_country_des": "Venezuela",
+    "f009_rg_cod_web": "VE",
+    "f009_rg_latitude": 8,
+    "f009_rg_longitude": -66,
+    "f009_rg_population": 221552
+  },
+  {
+    "f009_rg_iso_country": "VNM",
+    "f009_rg_country_des": "Vietnam",
+    "f009_rg_cod_web": "VN",
+    "f009_rg_latitude": 16,
+    "f009_rg_longitude": 106,
+    "f009_rg_population": 27223228
+  },
+  {
+    "f009_rg_iso_country": "WLF",
+    "f009_rg_country_des": "Wallis y Futuna",
+    "f009_rg_cod_web": "WF",
+    "f009_rg_latitude": -13.18,
+    "f009_rg_longitude": -176.12,
+    "f009_rg_population": 89571130
+  },
+  {
+    "f009_rg_iso_country": "YEM",
+    "f009_rg_country_des": "Yemen",
+    "f009_rg_cod_web": "YE",
+    "f009_rg_latitude": 15,
+    "f009_rg_longitude": 48
+  },
+  {
+    "f009_rg_iso_country": "DJI",
+    "f009_rg_country_des": "Yibuti",
+    "f009_rg_cod_web": "DJ",
+    "f009_rg_latitude": 11.3,
+    "f009_rg_longitude": 43,
+    "f009_rg_population": 23495361
+  },
+  {
+    "f009_rg_iso_country": "ZMB",
+    "f009_rg_country_des": "Zambia",
+    "f009_rg_cod_web": "ZM",
+    "f009_rg_latitude": -15,
+    "f009_rg_longitude": 30,
+    "f009_rg_population": 740528
+  },
+  {
+    "f009_rg_iso_country": "ZWE",
+    "f009_rg_country_des": "Zimbabue",
+    "f009_rg_cod_web": "ZW",
+    "f009_rg_latitude": -20,
+    "f009_rg_longitude": 30,
+    "f009_rg_population": 13460305
+  }
+]

@@ -1,0 +1,1910 @@
+[
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "California",
+    "f010_rg_latitude": 37.42,
+    "f010_rg_longitude": -122.06
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Beijing",
+    "f010_rg_latitude": 39.93,
+    "f010_rg_longitude": 116.39
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Iowa",
+    "f010_rg_latitude": 43.03,
+    "f010_rg_longitude": -96.09
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "New York",
+    "f010_rg_latitude": 40.76,
+    "f010_rg_longitude": -73.97
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Hebei",
+    "f010_rg_latitude": 39.89,
+    "f010_rg_longitude": 115.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jiangsu",
+    "f010_rg_latitude": 32.06,
+    "f010_rg_longitude": 118.78
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "New Jersey",
+    "f010_rg_latitude": 39.82,
+    "f010_rg_longitude": -75.13
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Massachusetts",
+    "f010_rg_latitude": 42.56,
+    "f010_rg_longitude": -72.18
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Connecticut",
+    "f010_rg_latitude": 41.14,
+    "f010_rg_longitude": -73.26
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guangdong",
+    "f010_rg_latitude": 23.12,
+    "f010_rg_longitude": 113.25
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Florida",
+    "f010_rg_latitude": 28.05,
+    "f010_rg_longitude": -82.36
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Texas",
+    "f010_rg_latitude": 30.27,
+    "f010_rg_longitude": -97.74
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Armed Forces US",
+    "f010_rg_latitude": 31.53,
+    "f010_rg_longitude": -110.36
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Tennessee",
+    "f010_rg_latitude": 35.04,
+    "f010_rg_longitude": -89.93
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Kentucky",
+    "f010_rg_latitude": 39.02,
+    "f010_rg_longitude": -84.56
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ile-de-France",
+    "f010_rg_latitude": 48.8,
+    "f010_rg_longitude": 2.5
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Georgia",
+    "f010_rg_latitude": 33.84,
+    "f010_rg_longitude": -84.38
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Rio de Janeiro",
+    "f010_rg_latitude": -22.9,
+    "f010_rg_longitude": -43.23
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Illinois",
+    "f010_rg_latitude": 42.05,
+    "f010_rg_longitude": -88.05
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Ceara",
+    "f010_rg_latitude": -3.32,
+    "f010_rg_longitude": -41.42
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Colorado",
+    "f010_rg_latitude": 39.74,
+    "f010_rg_longitude": -104.98
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Zhejiang",
+    "f010_rg_latitude": 28.02,
+    "f010_rg_longitude": 120.65
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Utah",
+    "f010_rg_latitude": 40.76,
+    "f010_rg_longitude": -111.89
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Liaoning",
+    "f010_rg_latitude": 41.79,
+    "f010_rg_longitude": 123.43
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Haryana",
+    "f010_rg_latitude": 28.47,
+    "f010_rg_longitude": 77.03
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Maryland",
+    "f010_rg_latitude": 39.1,
+    "f010_rg_longitude": -76.88
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shanghai",
+    "f010_rg_latitude": 31,
+    "f010_rg_longitude": 121.41
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Tianjin",
+    "f010_rg_latitude": 39.14,
+    "f010_rg_longitude": 117.18
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "South Carolina",
+    "f010_rg_latitude": 33.92,
+    "f010_rg_longitude": -80.34
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Montana",
+    "f010_rg_latitude": 45.77,
+    "f010_rg_longitude": -110.93
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Louisiana",
+    "f010_rg_latitude": 29.91,
+    "f010_rg_longitude": -90.05
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Fujian",
+    "f010_rg_latitude": 24.47,
+    "f010_rg_longitude": 118.09
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Santa Catarina",
+    "f010_rg_latitude": -26.48,
+    "f010_rg_longitude": -49.07
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Espirito Santo",
+    "f010_rg_latitude": -20.12,
+    "f010_rg_longitude": -40.3
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Washington",
+    "f010_rg_latitude": 47.09,
+    "f010_rg_longitude": -122.65
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Andhra Pradesh",
+    "f010_rg_latitude": 17.38,
+    "f010_rg_longitude": 78.47
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Pennsylvania",
+    "f010_rg_latitude": 40.45,
+    "f010_rg_longitude": -79.99
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guangxi",
+    "f010_rg_latitude": 22.82,
+    "f010_rg_longitude": 108.32
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "North Carolina",
+    "f010_rg_latitude": 35.75,
+    "f010_rg_longitude": -78.72
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shandong",
+    "f010_rg_latitude": 37.26,
+    "f010_rg_longitude": 117.08
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Chongqing",
+    "f010_rg_latitude": 29.56,
+    "f010_rg_longitude": 106.55
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Michigan",
+    "f010_rg_latitude": 43.93,
+    "f010_rg_longitude": -86.26
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Hubei",
+    "f010_rg_latitude": 30.58,
+    "f010_rg_longitude": 114.27
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Delhi",
+    "f010_rg_latitude": 28.67,
+    "f010_rg_longitude": 77.22
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Arkansas",
+    "f010_rg_latitude": 36.19,
+    "f010_rg_longitude": -94.24
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Wisconsin",
+    "f010_rg_latitude": 44.63,
+    "f010_rg_longitude": -90.2
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Midi-Pyrenees",
+    "f010_rg_latitude": 43.73,
+    "f010_rg_longitude": 1.42
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Picardie",
+    "f010_rg_latitude": 49.02,
+    "f010_rg_longitude": 1.9
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Bahia",
+    "f010_rg_latitude": -12.98,
+    "f010_rg_longitude": -38.52
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Heilongjiang",
+    "f010_rg_latitude": 45.75,
+    "f010_rg_longitude": 126.65
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Tamil Nadu",
+    "f010_rg_latitude": 13.08,
+    "f010_rg_longitude": 80.28
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Ohio",
+    "f010_rg_latitude": 39.11,
+    "f010_rg_longitude": -84.5
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "New Mexico",
+    "f010_rg_latitude": 35.78,
+    "f010_rg_longitude": -105.87
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Kansas",
+    "f010_rg_latitude": 37.69,
+    "f010_rg_longitude": -97.34
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Oregon",
+    "f010_rg_latitude": 45.44,
+    "f010_rg_longitude": -122.97
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Uttar Pradesh",
+    "f010_rg_latitude": 27.18,
+    "f010_rg_longitude": 78.02
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Nebraska",
+    "f010_rg_latitude": 41.11,
+    "f010_rg_longitude": -95.93
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "West Virginia",
+    "f010_rg_latitude": 39.46,
+    "f010_rg_longitude": -77.95
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Virginia",
+    "f010_rg_latitude": 37.13,
+    "f010_rg_longitude": -76.45
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Missouri",
+    "f010_rg_latitude": 38.25,
+    "f010_rg_longitude": -94.31
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Mississippi",
+    "f010_rg_latitude": 32.37,
+    "f010_rg_longitude": -90.11
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Rhode Island",
+    "f010_rg_latitude": 41.82,
+    "f010_rg_longitude": -71.41
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Sao Paulo",
+    "f010_rg_latitude": -23.95,
+    "f010_rg_longitude": -46.33
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shanxi",
+    "f010_rg_latitude": 37.9,
+    "f010_rg_longitude": 112.19
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Karnataka",
+    "f010_rg_latitude": 12.98,
+    "f010_rg_longitude": 77.58
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Hunan",
+    "f010_rg_latitude": 26.97,
+    "f010_rg_longitude": 109.77
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Indiana",
+    "f010_rg_latitude": 39.79,
+    "f010_rg_longitude": -86.17
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Oklahoma",
+    "f010_rg_latitude": 34.66,
+    "f010_rg_longitude": -98.48
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Minnesota",
+    "f010_rg_latitude": 44.98,
+    "f010_rg_longitude": -93.27
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Alabama",
+    "f010_rg_latitude": 33.8,
+    "f010_rg_longitude": -87.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Hainan",
+    "f010_rg_latitude": 19.14,
+    "f010_rg_longitude": 110.48
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Arizona",
+    "f010_rg_latitude": 33.46,
+    "f010_rg_longitude": -111.99
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Sichuan",
+    "f010_rg_latitude": 30.67,
+    "f010_rg_longitude": 104.07
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "South Dakota",
+    "f010_rg_latitude": 43.72,
+    "f010_rg_longitude": -98.03
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Maharashtra",
+    "f010_rg_latitude": 18.98,
+    "f010_rg_longitude": 72.83
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Nevada",
+    "f010_rg_latitude": 36.17,
+    "f010_rg_longitude": -115.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Henan",
+    "f010_rg_latitude": 34.22,
+    "f010_rg_longitude": 113.77
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Kerala",
+    "f010_rg_latitude": 8.51,
+    "f010_rg_longitude": 76.96
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "New Hampshire",
+    "f010_rg_latitude": 42.87,
+    "f010_rg_longitude": -71.39
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Maine",
+    "f010_rg_latitude": 44.08,
+    "f010_rg_longitude": -70.17
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Hawaii",
+    "f010_rg_latitude": 21.3,
+    "f010_rg_longitude": -157.79
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Chhattisgarh",
+    "f010_rg_latitude": 21.18,
+    "f010_rg_longitude": 81.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Anhui",
+    "f010_rg_latitude": 31.86,
+    "f010_rg_longitude": 117.28
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "District of Columbia",
+    "f010_rg_latitude": 38.9,
+    "f010_rg_longitude": -77.04
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Delaware",
+    "f010_rg_latitude": 39.62,
+    "f010_rg_longitude": -75.7
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "West Bengal",
+    "f010_rg_latitude": 22.57,
+    "f010_rg_longitude": 88.37
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shaanxi",
+    "f010_rg_latitude": 34.26,
+    "f010_rg_longitude": 108.94
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Madhya Pradesh",
+    "f010_rg_latitude": 22.72,
+    "f010_rg_longitude": 75.83
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Gujarat",
+    "f010_rg_latitude": 23.03,
+    "f010_rg_longitude": 72.62
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Franche-Comte",
+    "f010_rg_latitude": 47.63,
+    "f010_rg_longitude": 6.87
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Idaho",
+    "f010_rg_latitude": 48.39,
+    "f010_rg_longitude": -116.89
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Rajasthan",
+    "f010_rg_latitude": 26.92,
+    "f010_rg_longitude": 75.82
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Nei Mongol",
+    "f010_rg_latitude": 49.2,
+    "f010_rg_longitude": 119.7
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Alsace",
+    "f010_rg_latitude": 48.58,
+    "f010_rg_longitude": 7.75
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Orissa",
+    "f010_rg_latitude": 20.5,
+    "f010_rg_longitude": 85.83
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jilin",
+    "f010_rg_latitude": 43.88,
+    "f010_rg_longitude": 125.32
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Jharkhand",
+    "f010_rg_latitude": 23.35,
+    "f010_rg_longitude": 85.33
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Chandigarh",
+    "f010_rg_latitude": 30.74,
+    "f010_rg_longitude": 76.79
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Punjab",
+    "f010_rg_latitude": 30.9,
+    "f010_rg_longitude": 75.85
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Languedoc-Roussillon",
+    "f010_rg_latitude": 43.4,
+    "f010_rg_longitude": 3.68
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Assam",
+    "f010_rg_latitude": 24.82,
+    "f010_rg_longitude": 92.8
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Centre",
+    "f010_rg_latitude": 47.08,
+    "f010_rg_longitude": 2.4
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Champagne-Ardenne",
+    "f010_rg_latitude": 49.42,
+    "f010_rg_longitude": 4.5
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Bretagne",
+    "f010_rg_latitude": 48.77,
+    "f010_rg_longitude": 2.3
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Rhone-Alpes",
+    "f010_rg_latitude": 45.75,
+    "f010_rg_longitude": 4.85
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Nord-Pas-de-Calais",
+    "f010_rg_latitude": 50.75,
+    "f010_rg_longitude": 2.15
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Lorraine",
+    "f010_rg_latitude": 48.68,
+    "f010_rg_longitude": 6.2
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Rio Grande do Sul",
+    "f010_rg_latitude": -30.03,
+    "f010_rg_longitude": -51.2
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Provence-Alpes-Cote d'Azur",
+    "f010_rg_latitude": 44.4,
+    "f010_rg_longitude": 4.93
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Minas Gerais",
+    "f010_rg_latitude": -19.92,
+    "f010_rg_longitude": -43.93
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Limousin",
+    "f010_rg_latitude": 45.85,
+    "f010_rg_longitude": 1.25
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guizhou",
+    "f010_rg_latitude": 26.58,
+    "f010_rg_longitude": 106.72
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Normandie",
+    "f010_rg_latitude": 49.15,
+    "f010_rg_longitude": 1.33
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Poitou-Charentes",
+    "f010_rg_latitude": 45.65,
+    "f010_rg_longitude": 0.15
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Wyoming",
+    "f010_rg_latitude": 44.78,
+    "f010_rg_longitude": -107.55
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Daman and Diu",
+    "f010_rg_latitude": 20.37,
+    "f010_rg_longitude": 72.9
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Para",
+    "f010_rg_latitude": -1.27,
+    "f010_rg_longitude": -48.18
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Basse-Normandie",
+    "f010_rg_latitude": 49.15,
+    "f010_rg_longitude": 0.23
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Bihar",
+    "f010_rg_latitude": 25.6,
+    "f010_rg_longitude": 85.12
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Aquitaine",
+    "f010_rg_latitude": 45.12,
+    "f010_rg_longitude": 0.4
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Parana",
+    "f010_rg_latitude": -25.42,
+    "f010_rg_longitude": -49.25
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Auvergne",
+    "f010_rg_latitude": 46.28,
+    "f010_rg_longitude": 3.6
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Pernambuco",
+    "f010_rg_latitude": -8.05,
+    "f010_rg_longitude": -34.9
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Pays de la Loire",
+    "f010_rg_latitude": 47.47,
+    "f010_rg_longitude": 0.2
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Amazonas",
+    "f010_rg_latitude": -3.11,
+    "f010_rg_longitude": -60.03
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Distrito Federal",
+    "f010_rg_latitude": -15.78,
+    "f010_rg_longitude": -47.92
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "North Dakota",
+    "f010_rg_latitude": 46.96,
+    "f010_rg_longitude": -97.68
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Bourgogne",
+    "f010_rg_latitude": 47.8,
+    "f010_rg_longitude": 3.57
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Vermont",
+    "f010_rg_latitude": 44.49,
+    "f010_rg_longitude": -73.23
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Goias",
+    "f010_rg_latitude": -15.93,
+    "f010_rg_longitude": -50.13
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Himachal Pradesh",
+    "f010_rg_latitude": 31.1,
+    "f010_rg_longitude": 77.17
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Sergipe",
+    "f010_rg_latitude": -11.27,
+    "f010_rg_longitude": -37.43
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Alaska",
+    "f010_rg_latitude": 61.52,
+    "f010_rg_longitude": -149.57
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Mato Grosso do Sul",
+    "f010_rg_latitude": -22.22,
+    "f010_rg_longitude": -54.8
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Yunnan",
+    "f010_rg_latitude": 25.04,
+    "f010_rg_longitude": 102.72
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Uttarakhand",
+    "f010_rg_latitude": 30.32,
+    "f010_rg_longitude": 78.03
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Meghalaya",
+    "f010_rg_latitude": 25.58,
+    "f010_rg_longitude": 91.87
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jiangxi",
+    "f010_rg_latitude": 28.55,
+    "f010_rg_longitude": 115.93
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Rio Grande do Norte",
+    "f010_rg_latitude": -5.78,
+    "f010_rg_longitude": -35.22
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Paraiba",
+    "f010_rg_latitude": -7.22,
+    "f010_rg_longitude": -35.88
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Piaui",
+    "f010_rg_latitude": -5.08,
+    "f010_rg_longitude": -42.82
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Gansu",
+    "f010_rg_latitude": 36.06,
+    "f010_rg_longitude": 103.79
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Jammu and Kashmir",
+    "f010_rg_latitude": 33.8,
+    "f010_rg_longitude": 74.26
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Goa",
+    "f010_rg_latitude": 15.27,
+    "f010_rg_longitude": 73.92
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Maranhao",
+    "f010_rg_latitude": -2.52,
+    "f010_rg_longitude": -44.27
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Mato Grosso",
+    "f010_rg_latitude": -15.58,
+    "f010_rg_longitude": -56.08
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Corse",
+    "f010_rg_latitude": 41.92,
+    "f010_rg_longitude": 8.73
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Alagoas",
+    "f010_rg_latitude": -9.67,
+    "f010_rg_longitude": -35.72
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Puducherry",
+    "f010_rg_latitude": 11.93,
+    "f010_rg_longitude": 79.83
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Manipur",
+    "f010_rg_latitude": 24.82,
+    "f010_rg_longitude": 93.95
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Tocantins",
+    "f010_rg_latitude": -10.22,
+    "f010_rg_longitude": -48.28
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Roraima",
+    "f010_rg_latitude": 3.83,
+    "f010_rg_longitude": -60.22
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Rondonia",
+    "f010_rg_latitude": -10.67,
+    "f010_rg_longitude": -62.3
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Xizang",
+    "f010_rg_latitude": 29.65,
+    "f010_rg_longitude": 91.1
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Ningxia",
+    "f010_rg_latitude": 38.47,
+    "f010_rg_longitude": 106.27
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Xinjiang",
+    "f010_rg_latitude": 43.8,
+    "f010_rg_longitude": 87.58
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Qinghai",
+    "f010_rg_latitude": 36.5,
+    "f010_rg_longitude": 101.6
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Mizoram",
+    "f010_rg_latitude": 23.72,
+    "f010_rg_longitude": 92.72
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Dadra and Nagar Haveli",
+    "f010_rg_latitude": 20.27,
+    "f010_rg_longitude": 73.02
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Arunachal Pradesh",
+    "f010_rg_latitude": 27.57,
+    "f010_rg_longitude": 93.85
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Tripura",
+    "f010_rg_latitude": 23.84,
+    "f010_rg_longitude": 91.28
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Amapa",
+    "f010_rg_latitude": 0.03,
+    "f010_rg_longitude": -51.05
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Acre",
+    "f010_rg_latitude": -9.97,
+    "f010_rg_longitude": -67.8
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Sikkim",
+    "f010_rg_latitude": 27.33,
+    "f010_rg_longitude": 88.62
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Nagaland",
+    "f010_rg_latitude": 25.67,
+    "f010_rg_longitude": 94.12
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Andaman and Nicobar Islands",
+    "f010_rg_latitude": 11.67,
+    "f010_rg_longitude": 92.75
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shandong Sheng",
+    "f010_rg_latitude": 36.67,
+    "f010_rg_longitude": 117
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Henan Sheng",
+    "f010_rg_latitude": 34.68,
+    "f010_rg_longitude": 113.53
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shanghai Shi",
+    "f010_rg_latitude": 31.05,
+    "f010_rg_longitude": 121.4
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Zhejiang Sheng",
+    "f010_rg_latitude": 28,
+    "f010_rg_longitude": 120.67
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Sichuan Sheng",
+    "f010_rg_latitude": 30.67,
+    "f010_rg_longitude": 104.07
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Tianjin Shi",
+    "f010_rg_latitude": 39.14,
+    "f010_rg_longitude": 117.18
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guangxi Zhuangzu Zizhiqu",
+    "f010_rg_latitude": 22.82,
+    "f010_rg_longitude": 108.32
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Beijing Shi",
+    "f010_rg_latitude": 39.93,
+    "f010_rg_longitude": 116.39
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Gujarat",
+    "f010_rg_latitude": 21.77,
+    "f010_rg_longitude": 72.15
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jiangsu Sheng",
+    "f010_rg_latitude": 32.06,
+    "f010_rg_longitude": 118.78
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "National Capital Territory of Delhi",
+    "f010_rg_latitude": 28.6,
+    "f010_rg_longitude": 77.2
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jilin Sheng",
+    "f010_rg_latitude": 43.88,
+    "f010_rg_longitude": 125.32
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Lower Normandy",
+    "f010_rg_latitude": 48.43,
+    "f010_rg_longitude": 0.03
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Odisha",
+    "f010_rg_latitude": 21.45,
+    "f010_rg_longitude": 83.97
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Heilongjiang Sheng",
+    "f010_rg_latitude": 45.75,
+    "f010_rg_longitude": 126.65
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Anhui Sheng",
+    "f010_rg_latitude": 31.86,
+    "f010_rg_longitude": 117.28
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Telangana",
+    "f010_rg_latitude": 17.38,
+    "f010_rg_longitude": 78.47
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Jiangxi Sheng",
+    "f010_rg_latitude": 26.89,
+    "f010_rg_longitude": 114.53
+  },
+  {
+    "f010_rg_id_country": 1,
+    "f010_rg_description": "Federal District",
+    "f010_rg_latitude": -15.78,
+    "f010_rg_longitude": -47.92
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Chongqing Shi",
+    "f010_rg_latitude": 29.56,
+    "f010_rg_longitude": 106.55
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Shanxi Sheng",
+    "f010_rg_latitude": 38,
+    "f010_rg_longitude": 112.58
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guizhou Sheng",
+    "f010_rg_latitude": 26.58,
+    "f010_rg_longitude": 106.72
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Gansu Sheng",
+    "f010_rg_latitude": 36.06,
+    "f010_rg_longitude": 103.79
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Inner Mongolia",
+    "f010_rg_latitude": 40.65,
+    "f010_rg_longitude": 109.82
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Xinjiang Uygur Zizhiqu",
+    "f010_rg_latitude": 43.8,
+    "f010_rg_longitude": 87.6
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Tibet Autonomous Region",
+    "f010_rg_latitude": 29.65,
+    "f010_rg_longitude": 91.1
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Andhra Pradesh",
+    "f010_rg_latitude": 17.38,
+    "f010_rg_longitude": 78.47
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Punjab",
+    "f010_rg_latitude": 31.33,
+    "f010_rg_longitude": 75.58
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Himachal Pradesh",
+    "f010_rg_latitude": 33.03,
+    "f010_rg_longitude": 76.45
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Kashmir",
+    "f010_rg_latitude": 33.8,
+    "f010_rg_longitude": 74.26
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Chhattisgarh",
+    "f010_rg_latitude": 20.58,
+    "f010_rg_longitude": 80.73
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Jharkhand",
+    "f010_rg_latitude": 23.35,
+    "f010_rg_longitude": 85.33
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Brittany",
+    "f010_rg_latitude": 47.75,
+    "f010_rg_longitude": -3.37
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of R\u0101jasth\u0101n",
+    "f010_rg_latitude": 26.92,
+    "f010_rg_longitude": 75.82
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Upper Normandy",
+    "f010_rg_latitude": 49.34,
+    "f010_rg_longitude": 0.96
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Assam",
+    "f010_rg_latitude": 26.18,
+    "f010_rg_longitude": 91.73
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Corsica",
+    "f010_rg_latitude": 41.59,
+    "f010_rg_longitude": 9.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Qinghai Sheng",
+    "f010_rg_latitude": 36.62,
+    "f010_rg_longitude": 101.77
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Union Territory of Puducherry",
+    "f010_rg_latitude": 10.92,
+    "f010_rg_longitude": 79.83
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "State of Tripura",
+    "f010_rg_latitude": 23.84,
+    "f010_rg_longitude": 91.28
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Guangxi Zhuang Autonomous Region",
+    "f010_rg_latitude": 22.82,
+    "f010_rg_longitude": 108.32
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Seine-Maritime",
+    "f010_rg_latitude": 49.78,
+    "f010_rg_longitude": 1.69
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "H\u00e9rault",
+    "f010_rg_latitude": 43.29,
+    "f010_rg_longitude": 2.77
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Bas-Rhin",
+    "f010_rg_latitude": 48.58,
+    "f010_rg_longitude": 7.75
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Xinjiang Uyghur Autonomous Region",
+    "f010_rg_latitude": 43.8,
+    "f010_rg_longitude": 87.6
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Oise",
+    "f010_rg_latitude": 49.26,
+    "f010_rg_longitude": 2.48
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Marne",
+    "f010_rg_latitude": 49.27,
+    "f010_rg_longitude": 4.15
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Inner Mongolia Autonomous Region",
+    "f010_rg_latitude": 40.65,
+    "f010_rg_longitude": 109.82
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Orne",
+    "f010_rg_latitude": 48.43,
+    "f010_rg_longitude": 0.08
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Is\u00e8re",
+    "f010_rg_latitude": 45.34,
+    "f010_rg_longitude": 5.59
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Gironde",
+    "f010_rg_latitude": 44.8,
+    "f010_rg_longitude": -0.6
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "North",
+    "f010_rg_latitude": 50.69,
+    "f010_rg_longitude": 3.17
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Charente-Maritime",
+    "f010_rg_latitude": 46.25,
+    "f010_rg_longitude": -1.03
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Rh\u00f4ne",
+    "f010_rg_latitude": 45.77,
+    "f010_rg_longitude": 4.88
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ari\u00e8ge",
+    "f010_rg_latitude": 42.96,
+    "f010_rg_longitude": 1.61
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Savoie",
+    "f010_rg_latitude": 45.9,
+    "f010_rg_longitude": 6.12
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Somme",
+    "f010_rg_latitude": 49.9,
+    "f010_rg_longitude": 2.3
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Vosges",
+    "f010_rg_latitude": 48.12,
+    "f010_rg_longitude": 6.53
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Meurthe et Moselle",
+    "f010_rg_latitude": 48.56,
+    "f010_rg_longitude": 6.35
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Upper Garonne",
+    "f010_rg_latitude": 43.68,
+    "f010_rg_longitude": 1.39
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Pyr\u00e9n\u00e9es-Orientales",
+    "f010_rg_latitude": 42.4,
+    "f010_rg_longitude": 2.56
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Puy-de-D\u00f4me",
+    "f010_rg_latitude": 45.67,
+    "f010_rg_longitude": 3.13
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Aude",
+    "f010_rg_latitude": 42.8,
+    "f010_rg_longitude": 2.21
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Calvados",
+    "f010_rg_latitude": 49.06,
+    "f010_rg_longitude": -0.12
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Pas-de-Calais",
+    "f010_rg_latitude": 50.29,
+    "f010_rg_longitude": 2.78
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Charente",
+    "f010_rg_latitude": 45.79,
+    "f010_rg_longitude": 0.26
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Vienne",
+    "f010_rg_latitude": 45.86,
+    "f010_rg_longitude": 1.39
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haut-Rhin",
+    "f010_rg_latitude": 47.75,
+    "f010_rg_longitude": 7.33
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Landes",
+    "f010_rg_latitude": 43.79,
+    "f010_rg_longitude": -0.88
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Loire",
+    "f010_rg_latitude": 45.53,
+    "f010_rg_longitude": 4.26
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Cote d'Or",
+    "f010_rg_latitude": 47.32,
+    "f010_rg_longitude": 5.02
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Savoy",
+    "f010_rg_latitude": 45.17,
+    "f010_rg_longitude": 6.43
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Moselle",
+    "f010_rg_latitude": 49.33,
+    "f010_rg_longitude": 6.05
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Sa\u00f4ne-et-Loire",
+    "f010_rg_latitude": 46.21,
+    "f010_rg_longitude": 4.76
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Doubs",
+    "f010_rg_latitude": 47.25,
+    "f010_rg_longitude": 6.02
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Gard",
+    "f010_rg_latitude": 44.01,
+    "f010_rg_longitude": 4.32
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Aube",
+    "f010_rg_latitude": 48.3,
+    "f010_rg_longitude": 4.08
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Manche",
+    "f010_rg_latitude": 49.29,
+    "f010_rg_longitude": -1.19
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Jura",
+    "f010_rg_latitude": 46.65,
+    "f010_rg_longitude": 5.49
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Vienne",
+    "f010_rg_latitude": 46.63,
+    "f010_rg_longitude": 0.31
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Hautes-Pyr\u00e9n\u00e9es",
+    "f010_rg_latitude": 43.3,
+    "f010_rg_longitude": 0.22
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ard\u00e8che",
+    "f010_rg_latitude": 45.22,
+    "f010_rg_longitude": 4.68
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Loz\u00e8re",
+    "f010_rg_latitude": 44.58,
+    "f010_rg_longitude": 3.27
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Deux-S\u00e8vres",
+    "f010_rg_latitude": 46.36,
+    "f010_rg_longitude": -0.38
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Ningsia Hui Autonomous Region",
+    "f010_rg_latitude": 38.47,
+    "f010_rg_longitude": 106.27
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Eure",
+    "f010_rg_latitude": 49.02,
+    "f010_rg_longitude": 1.16
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Aisne",
+    "f010_rg_latitude": 49.61,
+    "f010_rg_longitude": 3.3
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Allier",
+    "f010_rg_latitude": 46.29,
+    "f010_rg_longitude": 2.74
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ain",
+    "f010_rg_latitude": 46.15,
+    "f010_rg_longitude": 5.71
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Territoire de Belfort",
+    "f010_rg_latitude": 47.45,
+    "f010_rg_longitude": 6.96
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Lot-et-Garonne",
+    "f010_rg_latitude": 44.42,
+    "f010_rg_longitude": 0.67
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Pyr\u00e9n\u00e9es-Atlantiques",
+    "f010_rg_latitude": 43.33,
+    "f010_rg_longitude": -0.5
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Sa\u00f4ne",
+    "f010_rg_latitude": 47.48,
+    "f010_rg_longitude": 5.93
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Dordogne",
+    "f010_rg_latitude": 44.82,
+    "f010_rg_longitude": 1.07
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Gers",
+    "f010_rg_latitude": 43.61,
+    "f010_rg_longitude": 1.08
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ni\u00e8vre",
+    "f010_rg_latitude": 47.43,
+    "f010_rg_longitude": 3.4
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Loire",
+    "f010_rg_latitude": 45.34,
+    "f010_rg_longitude": 3.78
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Meuse",
+    "f010_rg_latitude": 49.26,
+    "f010_rg_longitude": 5.41
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Haute-Marne",
+    "f010_rg_latitude": 48.4,
+    "f010_rg_longitude": 5.18
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Ardennes",
+    "f010_rg_latitude": 49.77,
+    "f010_rg_longitude": 4.72
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Lot",
+    "f010_rg_latitude": 44.85,
+    "f010_rg_longitude": 1.56
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Dr\u00f4me",
+    "f010_rg_latitude": 44.56,
+    "f010_rg_longitude": 4.75
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Aveyron",
+    "f010_rg_latitude": 44.32,
+    "f010_rg_longitude": 2.28
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Tarn",
+    "f010_rg_latitude": 43.93,
+    "f010_rg_longitude": 2.15
+  },
+  {
+    "f010_rg_id_country": 6,
+    "f010_rg_description": "Guangdong",
+    "f010_rg_latitude": 37.75,
+    "f010_rg_longitude": -97.82
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Yonne",
+    "f010_rg_latitude": 47.8,
+    "f010_rg_longitude": 3.57
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Tarn-et-Garonne",
+    "f010_rg_latitude": 44.11,
+    "f010_rg_longitude": 0.82
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Cantal",
+    "f010_rg_latitude": 45.37,
+    "f010_rg_longitude": 2.55
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Corr\u00e8ze",
+    "f010_rg_latitude": 45.43,
+    "f010_rg_longitude": 1.84
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Creuse",
+    "f010_rg_latitude": 46.41,
+    "f010_rg_longitude": 1.82
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Laccadives",
+    "f010_rg_latitude": 10.57,
+    "f010_rg_longitude": 72.62
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Nouvelle-Aquitaine",
+    "f010_rg_latitude": 44.85,
+    "f010_rg_longitude": -0.22
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Hauts-de-France",
+    "f010_rg_latitude": 50.39,
+    "f010_rg_longitude": 3.17
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Bourgogne-Franche-Comte",
+    "f010_rg_latitude": 47.76,
+    "f010_rg_longitude": 3.41
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Occitanie",
+    "f010_rg_latitude": 43.87,
+    "f010_rg_longitude": 1.51
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Normandy",
+    "f010_rg_latitude": 49.02,
+    "f010_rg_longitude": 1.15
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Auvergne-Rhone-Alpes",
+    "f010_rg_latitude": 45.43,
+    "f010_rg_longitude": 4.39
+  },
+  {
+    "f010_rg_id_country": 4,
+    "f010_rg_description": "Grand-Est",
+    "f010_rg_latitude": 49.29,
+    "f010_rg_longitude": 5.74
+  },
+  {
+    "f010_rg_id_country": 3,
+    "f010_rg_description": "Tibet",
+    "f010_rg_latitude": 29.65,
+    "f010_rg_longitude": 91.1
+  },
+  {
+    "f010_rg_id_country": 5,
+    "f010_rg_description": "Andaman and Nicobar",
+    "f010_rg_latitude": 11.67,
+    "f010_rg_longitude": 92.75
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Amazonas",
+    "f010_rg_latitude": -1.02,
+    "f010_rg_longitude": -71.94
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Antioquia",
+    "f010_rg_latitude": 7,
+    "f010_rg_longitude": -75.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Arauca",
+    "f010_rg_latitude": 7.09,
+    "f010_rg_longitude": -70.76
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Atl\u00e1ntico",
+    "f010_rg_latitude": 10.75,
+    "f010_rg_longitude": -75
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Bol\u00edvar",
+    "f010_rg_latitude": 9,
+    "f010_rg_longitude": -74.33
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Boyac\u00e1",
+    "f010_rg_latitude": 5.5,
+    "f010_rg_longitude": -72.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Caldas",
+    "f010_rg_latitude": 5.25,
+    "f010_rg_longitude": -75.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Caquet\u00e1",
+    "f010_rg_latitude": 1,
+    "f010_rg_longitude": -74
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Casanare",
+    "f010_rg_latitude": 5.5,
+    "f010_rg_longitude": -71.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Cauca",
+    "f010_rg_latitude": 2.5,
+    "f010_rg_longitude": -76.83
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Cesar",
+    "f010_rg_latitude": 9.33,
+    "f010_rg_longitude": -73.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Choc\u00f3",
+    "f010_rg_latitude": 6,
+    "f010_rg_longitude": -77
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Cundinamarca",
+    "f010_rg_latitude": 5,
+    "f010_rg_longitude": -74.17
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "C\u00f3rdoba",
+    "f010_rg_latitude": 8.33,
+    "f010_rg_longitude": -75.67
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Guain\u00eda",
+    "f010_rg_latitude": 2.5,
+    "f010_rg_longitude": -69
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Guaviare",
+    "f010_rg_latitude": 1.69,
+    "f010_rg_longitude": -72.82
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Huila",
+    "f010_rg_latitude": 2.5,
+    "f010_rg_longitude": -75.75
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "La Guajira",
+    "f010_rg_latitude": 11.5,
+    "f010_rg_longitude": -72.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Magdalena",
+    "f010_rg_latitude": 10,
+    "f010_rg_longitude": -74.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Meta",
+    "f010_rg_latitude": 3.5,
+    "f010_rg_longitude": -73
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Nari\u00f1o",
+    "f010_rg_latitude": 1.5,
+    "f010_rg_longitude": -78
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Norte de Santander",
+    "f010_rg_latitude": 8,
+    "f010_rg_longitude": -73
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Putumayo",
+    "f010_rg_latitude": 0.5,
+    "f010_rg_longitude": -76
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Quind\u00edo",
+    "f010_rg_latitude": 4.5,
+    "f010_rg_longitude": -75.67
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Risaralda",
+    "f010_rg_latitude": 5,
+    "f010_rg_longitude": -76
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "San Andr\u00e9s",
+    "f010_rg_latitude": 12.58,
+    "f010_rg_longitude": -81.7
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Santander",
+    "f010_rg_latitude": 7,
+    "f010_rg_longitude": -73.25
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Sucre",
+    "f010_rg_latitude": 9,
+    "f010_rg_longitude": -75
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Tolima",
+    "f010_rg_latitude": 3.75,
+    "f010_rg_longitude": -75.25
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Valle del Cauca",
+    "f010_rg_latitude": 3.75,
+    "f010_rg_longitude": -76.5
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Vaup\u00e9s",
+    "f010_rg_latitude": 0.25,
+    "f010_rg_longitude": -70.75
+  },
+  {
+    "f010_rg_id_country": 2,
+    "f010_rg_description": "Vichada",
+    "f010_rg_latitude": 5,
+    "f010_rg_longitude": -69.5
+  }
+]
