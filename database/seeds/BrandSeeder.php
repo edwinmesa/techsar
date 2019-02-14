@@ -62,6 +62,13 @@ class BrandSeeder extends Seeder
             'f150_mm_id_provider'       => $providerId,
         ]);
 
+        Brand::create([
+            'f150_mc_brand_cod'         => 5007,
+            'f150_mc_brand_des'         => 'LG Corporation',
+            'f150_mc_brand_abv'         => 'LG',
+            'f150_mm_id_provider'       => $providerId,
+        ]);
+
 
 //        Brand::create([
 //            'f150_mc_brand_cod'         => 5001,

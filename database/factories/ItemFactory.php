@@ -39,6 +39,7 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
     return [
         'f153_mc_item_cod'          => $itemCod++,
         'f153_mc_item_des'          => $faker->monitor.' '.$valueBrandDes,
+        'f153_mc_item_brand'        => $valueBrandDes,
         'f153_mc_item_active'       => 1,
         'f153_mc_item_model'        => $valueBrandAbv.' '.$faker->models.$faker->randomNumber(2),
         'f153_mc_item_ean'          => '00'.$faker->ean8,
@@ -47,6 +48,7 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
         'f153_mc_item_provider'     => $valueProviderDes,
         'f153_mc_id_category'       => Category::all()->random()->f152_mc_id_category,
         'f153_mc_id_brand'          =>$valueBrandId,
+        'f153_mc_id_provider'       =>$valueProviderId,
 //        'f153_mc_item_des'          => function (array $post) {
 //                                        return App\Models\Brand::find($post['f153_mc_id_brand'])->f150_mc_brand_des;
 //                                        }
