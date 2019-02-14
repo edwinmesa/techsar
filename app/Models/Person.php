@@ -13,4 +13,10 @@ class Person extends Model
     {
         return $this->hasMany(Customer::class,'f111_mm_id_person');
     }
+
+    public function providers()
+    {
+        return $this->hasMany(Provider::class,'f112_mm_id_person');
+    }
+
 }

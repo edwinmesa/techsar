@@ -50,7 +50,7 @@ class FakerDataInformaticsServiceProvider extends \Faker\Provider\Base
      * return string
      */
     protected static $models = array(
-        'UM','UL','UK','SW','KJ','HG','MB'
+        'UM','UL','UK','SW','KJ','HG','MB', 'KJ', 'NB'
     );
 
     /**
