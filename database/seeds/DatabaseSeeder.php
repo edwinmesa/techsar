@@ -25,6 +25,7 @@ class DatabaseSeeder extends Seeder
             't101_mm_regional',
             't102_mm_operations_center',
             't111_mm_customers',
+            't112_mm_providers',
             't110_mm_persons',
             't150_mc_brands',
             't151_mc_groups',
@@ -46,6 +47,7 @@ class DatabaseSeeder extends Seeder
         $this->call(OperationCenterSeeder::class);
         $this->call(PersonSeeder::class);
         $this->call(CustomerSeeder::class);
+        $this->call(ProviderSeeder::class);
         $this->call(BrandSeeder::class);
         $this->call(GroupSeeder::class);
         $this->call(CategorySeeder::class);

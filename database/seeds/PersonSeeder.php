@@ -56,5 +56,18 @@ class PersonSeeder extends Seeder
             'f110_mm_id_person_active'              => 1,
 
         ]);
+
+        Person::create([
+            'f110_mm_person_des'                    => 'Sar Electronic and Technologies',
+            'f110_mm_person_cod'                    => 18941616,
+            'f110_mm_person_fullName'               => 'Sar Electronics',
+            'f110_mm_person_password'               => bcrypt('swwr44'),
+            'f110_mm_person_email'                  => 'sartecno@shs.com',
+            'f110_mm_person_phone'                  => 198191,
+            'f110_mm_id_person_active'              => 1,
+
+        ]);
+
+
     }
 }
