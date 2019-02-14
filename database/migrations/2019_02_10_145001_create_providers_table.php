@@ -35,6 +35,6 @@ class CreateProvidersTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('t112_mm_customers');
+        Schema::dropIfExists('t112_mm_providers');
     }
 }

@@ -13,11 +13,7 @@ use Illuminate\Support\Facades\DB;
 
 $factory->define(App\Models\Item::class, function (Faker $faker) {
 
-//    $faker->addProvider(new \Faker\Provider\en_US\Informatics($faker));
-
-    $faker->addProvider( new \App\Providers\FakerServiceProvider($faker));
-
-
+    $faker->addProvider( new \App\Providers\FakerDataInformaticsServiceProvider($faker));
 
     /**
      * Query para Marcas de los id de 1 a 20
@@ -35,16 +31,14 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
     static $itemCod = 100;
     return [
         'f153_mc_item_cod'          => $itemCod++,
-//        'f153_mc_item_des'          => $faker->monitor,
-        'f153_mc_item_des'          => $faker->ModelName.' '.$values,
+        'f153_mc_item_des'          => $faker->monitor.' '.$values,
         'f153_mc_item_active'       => 1,
-        'f153_mc_item_model'        => $faker->ModelName.$faker->randomNumber(2),
+        'f153_mc_item_model'        => $faker->monitor.$faker->randomNumber(2),
         'f153_mc_item_ean'          => '00'.$faker->ean8,
         'f153_mc_item_date_fab'     => $faker->dateTimeBetween('-16 years', $endDate = '-12 years', $timezone = null),
         'f153_mc_item_date_ven'     => $faker->dateTimeBetween('-7 years', $endDate = '-2 years', $timezone = null),
         'f153_mc_item_provider'     => $faker->company,
         'f153_mc_id_category'       => Category::all()->random()->f152_mc_id_category,
-//        'f153_mc_id_brand'          => $brandId->random()->f150_mc_id_brand,
         'f153_mc_id_brand'          =>$value,
 //        'f153_mc_item_des'          => function (array $post) {
 //                                        return App\Models\Brand::find($post['f153_mc_id_brand'])->f150_mc_brand_des;
