@@ -18,6 +18,10 @@ class CreateBrandsTable extends Migration
             $table->timestamps();
             $table->integer('f150_mc_brand_cod')->unique();
             $table->string('f150_mc_brand_des');
+            $table->unsignedInteger('f150_mm_id_provider');
+            $table->foreign('f150_mm_id_provider')
+                ->references('f112_mm_id_providers')
+                ->on('t112_mm_providers');
         });
     }
 
