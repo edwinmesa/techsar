@@ -14,4 +14,9 @@ class Provider extends Model
         return $this->belongsTo(Person::class,'f112_mm_id_person');
     }
 
+    public function items()
+    {
+        return $this->hasMany(Item::class,'f153_mc_id_provider');
+    }
+
 }

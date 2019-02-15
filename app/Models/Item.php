@@ -19,4 +19,9 @@ class Item extends Model
         return $this->belongsTo(Brand::class,'f153_mc_id_brand');
     }
 
+    public function provider()
+    {
+        return $this->belongsTo(Provider::class,'f153_mc_id_provider');
+    }
+
 }
