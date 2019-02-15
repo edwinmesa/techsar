@@ -18,13 +18,14 @@ class CreateItemsTable extends Migration
             $table->timestamps();
             $table->integer('f153_mc_item_cod')->unique();
             $table->string('f153_mc_item_des');
-            $table->string('f153_mc_item_brand');
             $table->integer('f153_mc_item_active')->default(1,0);
             $table->string('f153_mc_item_model')->nullable();;
             $table->string('f153_mc_item_ean');
             $table->dateTime('f153_mc_item_date_fab')->nullable();
             $table->dateTime('f153_mc_item_date_ven')->nullable();
-            $table->string('f153_mc_item_provider')->nullable();
+            $table->string('f153_mc_brand');
+            $table->string('f153_mc_provider');
+            $table->string('f153_mc_category');
             $table->unsignedInteger('f153_mc_id_category');
             $table->foreign('f153_mc_id_category')
                 ->references('f152_mc_id_category')
