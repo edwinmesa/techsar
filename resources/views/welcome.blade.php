@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -81,9 +82,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Tech Sar
                 </div>
-
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
@@ -93,6 +93,14 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
+
         </div>
+
+
+        @forelse($items as $item)
+            <li>{{ $item->f153_mc_id_category }}</li>
+        @empty
+            <li>No hay usuarios registrados.</li>
+        @endforelse
     </body>
 </html>

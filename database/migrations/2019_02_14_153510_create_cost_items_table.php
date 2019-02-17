@@ -30,6 +30,7 @@ class CreateCostItemsTable extends Migration
             $table->string('f200_mvt_brand');
             $table->string('f200_mvt_provider');
             $table->string('f200_mvt_category');
+            $table->string('f200_mvt_id_category');
             $table->integer('f200_mvt_cant_initial')->default(0);
             $table->integer('f200_mvt_cant_available')->default(0);
             $table->integer('f200_mvt_cant_lack')->default(0);

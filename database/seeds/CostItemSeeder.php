@@ -14,16 +14,22 @@ class CostItemSeeder extends Seeder
     public function run()
     {
         factory(App\Models\Item::class)->create()->each(function ($item) {
+            static $costDel                     = 0.04;
+            static $costTax                     = 0.08;
+            static $incrementProd               = 0.45;
+            static $incrementVent               = 0.15;
 
-            $faker                              = Faker\Factory::create();
-            static $itemDelivery                = 0.04;
-            static $itemTaxes                   = 0.08;
-            $values                             = $faker->numberBetween(100000,300000);
+            $categoryId = DB::table('t152_mc_categories')
+                ->where('f152_mc_id_category', $item->f153_mc_id_category)->get();
+            $valueCategoryId = $categoryId->random()->f152_mc_id_category;
+
+
+            $values                             = $this->costManufacture($valueCategoryId);
             $costManufacture                    = $values;
-            $costInitial                        = ($costManufacture*0.45)+$costManufacture;
-            $costSales                          = ($costInitial*0.15)+$costInitial;
-            $costDelivery                       = $costSales*$itemDelivery;
-            $costTaxes                          = $costSales*$itemTaxes;
+            $costInitial                        = $this->costInitial($costManufacture,$incrementProd);
+            $costSales                          = $this->costSales($costInitial,$incrementVent);
+            $costDelivery                       = $this->costDelivery($costSales,$costDel);
+            $costTaxes                          = $this->costTaxes($costSales,$costTax);
 
             CostItem::create([
                 'f200_mvt_id_item'              =>  $item->f153_mc_id_item,
@@ -37,6 +43,7 @@ class CostItemSeeder extends Seeder
                 'f200_mvt_brand'                =>  $item->f153_mc_brand,
                 'f200_mvt_provider'             =>  $item->f153_mc_provider,
                 'f200_mvt_category'             =>  $item->f153_mc_category,
+                'f200_mvt_id_category'          =>  $item->f153_mc_id_category,
                 'f200_mvt_cost_initial'         =>  $costInitial,
                 'f200_mvt_cost_manufacture'     =>  $costManufacture,
                 'f200_mvt_cost_sales'           =>  $costSales,
@@ -44,11 +51,43 @@ class CostItemSeeder extends Seeder
                 'f200_mvt_cost_taxes'           =>  $costTaxes
             ]);
         });
+    }
 
+    public function costManufacture ($value)
+    {
+        $faker                              = Faker\Factory::create();
+        $min                                = 10000;
+        $minMax                             = 100000;
+        $medMin                             = 110000;
+        $medMax                             = 500000;
+        $maxMin                             = 510000;
+        $max                                = 3000000;
+        if($value == 2){
+           return $faker->numberBetween($medMin,$medMax);
+        }
+    }
 
+    public function costInitial ($costProd,$incrementProd)
+    {
+        return ($costProd*$incrementProd)+$costProd;
+    }
 
+    public function costSales ($costInitial,$incrementVent)
+    {
+        return ($costInitial*$incrementVent)+$costInitial;
+    }
 
+    public function costDelivery ($costSales,$costDelivery)
+    {
+        return ($costSales*$costDelivery);
+    }
+
+    public function costTaxes ($costSales,$costTaxes)
+    {
+        return ($costSales*$costTaxes);
     }
 
 
 }
+
+

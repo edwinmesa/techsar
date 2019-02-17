@@ -54,7 +54,7 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
         'f153_mc_item_cod'          => $itemCod++,
         'f153_mc_item_des'          => $faker->monitor.' '.$valueBrandDes,
         'f153_mc_item_active'       => 1,
-        'f153_mc_item_model'        => $valueBrandAbv.' '.$faker->models.$faker->randomNumber(2),
+        'f153_mc_item_model'        => $valueBrandAbv.' '.$faker->models.$faker->numberBetween(14,21),
         'f153_mc_item_ean'          => '00'.$faker->ean8,
         'f153_mc_item_date_fab'     => $faker->dateTimeBetween('-16 years', $endDate = '-12 years', $timezone = null),
         'f153_mc_item_date_ven'     => $faker->dateTimeBetween('-7 years', $endDate = '-2 years', $timezone = null),
