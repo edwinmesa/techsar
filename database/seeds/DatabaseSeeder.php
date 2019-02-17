@@ -30,6 +30,7 @@ class DatabaseSeeder extends Seeder
             't150_mc_brands',
             't151_mc_groups',
             't152_mc_categories',
+            't200_mvt_cost_items',
             't153_mc_items',
 
         ]);
@@ -52,6 +53,7 @@ class DatabaseSeeder extends Seeder
         $this->call(GroupSeeder::class);
         $this->call(CategorySeeder::class);
         $this->call(ItemSeeder::class);
+        $this->call(CostItemSeeder::class);
 
     }
 
