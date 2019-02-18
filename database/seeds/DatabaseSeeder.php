@@ -32,6 +32,7 @@ class DatabaseSeeder extends Seeder
             't152_mc_categories',
             't200_mvt_cost_items',
             't153_mc_items',
+            't154_mc_warehouses',
 
         ]);
 
@@ -54,6 +55,7 @@ class DatabaseSeeder extends Seeder
         $this->call(CategorySeeder::class);
         $this->call(ItemSeeder::class);
         $this->call(CostItemSeeder::class);
+        $this->call(WarehouseSeeder::class);
 
     }
 

@@ -14,4 +14,9 @@ class OperationCenter extends Model
         return $this->belongsTo(Regional::class,'f102_mm_id_regional');
     }
 
+    public function Warehouses()
+    {
+        return $this->hasMany(Warehouse::class,'f154_mc_id_op');
+    }
+
 }
