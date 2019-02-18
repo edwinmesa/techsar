@@ -23,9 +23,15 @@ class CostItemSeeder extends Seeder
             $categoryId = DB::table('t152_mc_categories')
                 ->where('f152_mc_id_category', $item->f153_mc_id_category)->get();
 
-            $valueCategoryId = $categoryId->random()->f152_mc_id_category;
+            $plucked = $categoryId->pluck('f152_mc_id_category');
+            $plucked->all();
 
-            $values = $this->costManufacture($valueCategoryId);
+            $valuesId = $this->getValuesId($plucked);
+
+
+//            $valueCategoryId = $categoryId->random()->f152_mc_id_category;
+
+            $values = $this->costManufacture($valuesId);
             $costManufacture = $values;
             $costInitial = $this->costInitial($costManufacture, $incrementProd);
             $costSales = $this->costSales($costInitial, $incrementVent);
@@ -63,6 +69,7 @@ class CostItemSeeder extends Seeder
         $medMax = 500000;
         $maxMin = 510000;
         $max = 3000000;
+
         if ($value == 2) {
             return $faker->numberBetween($medMin, $medMax);
         } else if ($value == 3) {
@@ -88,6 +95,13 @@ class CostItemSeeder extends Seeder
     public function costTaxes ($costSales, $costTaxes)
     {
         return ($costSales * $costTaxes);
+    }
+
+    public function getValuesId($values)
+    {
+        foreach ($values as $value){
+            return $value;
+        }
     }
 
 
