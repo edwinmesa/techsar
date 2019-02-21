@@ -25,6 +25,7 @@ class ProviderSeeder extends Seeder
             'f112_mm_provider_phone'        => 1161,
             'f112_mm_id_provider_active'    => 1,
             'f112_mm_id_person'             =>$personId,
+            'f112_mm_id_company'            =>1
 
         ]);
     }

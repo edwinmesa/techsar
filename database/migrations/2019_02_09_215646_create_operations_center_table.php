@@ -21,6 +21,10 @@ class CreateOperationsCenterTable extends Migration
             $table->unsignedInteger('f102_mm_id_regional');
             $table->foreign('f102_mm_id_regional')->references('f101_mm_id_regional')
                 ->on('t101_mm_regional');
+            $table->unsignedInteger('f102_mm_id_company');
+            $table->foreign('f102_mm_id_company')->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
+
         });
     }
 

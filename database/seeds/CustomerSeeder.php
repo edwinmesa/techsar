@@ -22,6 +22,7 @@ class CustomerSeeder extends Seeder
             'f111_mm_customer_phone'        => '3051824',
             'f111_mm_id_customer_active'    => 1,
             'f111_mm_id_person'             =>$personId,
+            'f111_mm_id_company'            =>1
 
         ]);
     }

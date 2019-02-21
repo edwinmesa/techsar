@@ -19,4 +19,9 @@ class Provider extends Model
         return $this->hasMany(Item::class,'f153_mc_id_provider');
     }
 
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f112_mm_id_company');
+    }
+
 }

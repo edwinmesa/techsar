@@ -20,6 +20,7 @@ class PersonSeeder extends Seeder
             'f110_mm_person_email'                  => 'edwisar@shs.com',
             'f110_mm_person_phone'                  => 616849161,
             'f110_mm_id_person_active'              => 1,
+            'f110_mm_id_company'                    => 1,
 
         ]);
 
@@ -31,6 +32,7 @@ class PersonSeeder extends Seeder
             'f110_mm_person_email'                  => 'juan@shs.com',
             'f110_mm_person_phone'                  => 1518841,
             'f110_mm_id_person_active'              => 1,
+            'f110_mm_id_company'                    => 1,
 
         ]);
 
@@ -43,6 +45,7 @@ class PersonSeeder extends Seeder
             'f110_mm_person_email'                  => 'claudia@shs.com',
             'f110_mm_person_phone'                  => 6848411,
             'f110_mm_id_person_active'              => 1,
+            'f110_mm_id_company'                    => 1,
 
         ]);
 
@@ -54,6 +57,7 @@ class PersonSeeder extends Seeder
             'f110_mm_person_email'                  => 'andrea@shs.com',
             'f110_mm_person_phone'                  => 651881,
             'f110_mm_id_person_active'              => 1,
+            'f110_mm_id_company'                    => 1,
 
         ]);
 
@@ -65,6 +69,7 @@ class PersonSeeder extends Seeder
             'f110_mm_person_email'                  => 'sartecno@shs.com',
             'f110_mm_person_phone'                  => 198191,
             'f110_mm_id_person_active'              => 1,
+            'f110_mm_id_company'                    => 1,
 
         ]);
 

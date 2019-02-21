@@ -14,4 +14,9 @@ class Customer extends Model
         return $this->belongsTo(Person::class,'f111_mm_id_person');
     }
 
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f111_mm_id_company');
+    }
+
 }

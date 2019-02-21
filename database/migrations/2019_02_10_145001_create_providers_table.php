@@ -27,6 +27,10 @@ class CreateProvidersTable extends Migration
             $table->foreign('f112_mm_id_person')
                 ->references('f110_mm_id_person')
                 ->on('t110_mm_persons');
+            $table->unsignedInteger('f112_mm_id_company');
+            $table->foreign('f112_mm_id_company')
+                ->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
         });
     }
 

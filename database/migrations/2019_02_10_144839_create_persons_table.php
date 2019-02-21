@@ -23,6 +23,9 @@ class CreatePersonsTable extends Migration
             $table->string('f110_mm_person_email')->nullable();
             $table->integer('f110_mm_person_phone')->nullable();
             $table->integer('f110_mm_id_person_active')->default(1,0);
+            $table->unsignedInteger('f110_mm_id_company');
+            $table->foreign('f110_mm_id_company')->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
         });
     }
 

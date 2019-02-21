@@ -19,4 +19,10 @@ class Person extends Model
         return $this->hasMany(Provider::class,'f112_mm_id_person');
     }
 
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f110_mm_id_company');
+    }
+
+
 }

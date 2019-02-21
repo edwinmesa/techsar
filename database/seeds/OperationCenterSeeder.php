@@ -25,34 +25,39 @@ class OperationCenterSeeder extends Seeder
         OperationCenter::create([
             'f102_mm_op_cod'     => 6494,
             'f102_mm_op_des'     => 'Colombia Sar Operations Bogota',
-            'f102_mm_id_regional' => $regionaColId
+            'f102_mm_id_regional' => $regionaColId,
+            'f102_mm_id_company'  =>1
 
         ]);
 
         OperationCenter::create([
             'f102_mm_op_cod' => 6495,
             'f102_mm_op_des' => 'Colombia Sar Operations Medellin',
-            'f102_mm_id_regional' => $regionaColId
+            'f102_mm_id_regional' => $regionaColId,
+            'f102_mm_id_company'  =>1
         ]);
 
         OperationCenter::create([
             'f102_mm_op_cod' => 2554,
             'f102_mm_op_des' => 'EEUU Sar Operations San Francisco',
-            'f102_mm_id_regional' => $regionaEuId
+            'f102_mm_id_regional' => $regionaEuId,
+            'f102_mm_id_company'  =>1
 
         ]);
 
         OperationCenter::create([
             'f102_mm_op_cod' => 2555,
             'f102_mm_op_des' => 'EEUU Sar Operations Virginia',
-            'f102_mm_id_regional' => $regionaEuId
+            'f102_mm_id_regional' => $regionaEuId,
+            'f102_mm_id_company'  =>1
 
         ]);
 
         OperationCenter::create([
             'f102_mm_op_cod' => 6881,
             'f102_mm_op_des' => 'Paris Sar Operations',
-            'f102_mm_id_regional' => $regionaEuroId
+            'f102_mm_id_regional' => $regionaEuroId,
+            'f102_mm_id_company'  =>1
 
         ]);
     }
