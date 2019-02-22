@@ -17,6 +17,7 @@ class ProviderSeeder extends Seeder
             ->value('f110_mm_id_person');
 
         Provider::create([
+            'f112_mm_id_company'            =>1,
             'f112_mm_provider_cod'          => 001,
             'f112_mm_provider_des'          => 'Sar Distributions World',
             'f112_mm_provider_taxes'        => 0.8,
@@ -25,7 +26,7 @@ class ProviderSeeder extends Seeder
             'f112_mm_provider_phone'        => 1161,
             'f112_mm_id_provider_active'    => 1,
             'f112_mm_id_person'             =>$personId,
-            'f112_mm_id_company'            =>1
+
 
         ]);
     }

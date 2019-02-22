@@ -15,4 +15,9 @@ class Warehouse extends Model
         return $this->belongsTo(OperationCenter::class,'f154_mc_id_op');
     }
 
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f154_mm_id_company');
+    }
+
 }

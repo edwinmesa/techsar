@@ -15,6 +15,7 @@ class CreateProvidersTable extends Migration
     {
         Schema::create('t112_mm_providers', function (Blueprint $table) {
             $table->increments('f112_mm_id_providers')->unique('f112_mm_id_providers');
+            $table->unsignedInteger('f112_mm_id_company');
             $table->timestamps();
             $table->integer('f112_mm_provider_cod')->unique();
             $table->string('f112_mm_provider_des');
@@ -27,7 +28,6 @@ class CreateProvidersTable extends Migration
             $table->foreign('f112_mm_id_person')
                 ->references('f110_mm_id_person')
                 ->on('t110_mm_persons');
-            $table->unsignedInteger('f112_mm_id_company');
             $table->foreign('f112_mm_id_company')
                 ->references('f100_mm_id_company')
                 ->on('t100_mm_companies');

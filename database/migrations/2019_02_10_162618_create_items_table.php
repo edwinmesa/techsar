@@ -15,6 +15,7 @@ class CreateItemsTable extends Migration
     {
         Schema::create('t153_mc_items', function (Blueprint $table) {
             $table->increments('f153_mc_id_item')->unique('f153_mc_id_item');
+            $table->unsignedInteger('f153_mc_id_company');
             $table->timestamps();
             $table->integer('f153_mc_item_cod')->unique();
             $table->string('f153_mc_item_des');
@@ -38,6 +39,9 @@ class CreateItemsTable extends Migration
             $table->foreign('f153_mc_id_provider')
                 ->references('f112_mm_id_providers')
                 ->on('t112_mm_providers');
+            $table->foreign('f153_mc_id_company')
+                ->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
 
         });
     }

@@ -15,6 +15,7 @@ class CreateCustomersTable extends Migration
     {
         Schema::create('t111_mm_customers', function (Blueprint $table) {
             $table->increments('f111_mm_id_customer')->unique('f111_mm_id_customer');
+            $table->unsignedInteger('f111_mm_id_company');
             $table->timestamps();
             $table->integer('f111_mm_customer_cod')->unique();
             $table->string('f111_mm_customer_des');
@@ -25,7 +26,6 @@ class CreateCustomersTable extends Migration
             $table->foreign('f111_mm_id_person')
                 ->references('f110_mm_id_person')
                 ->on('t110_mm_persons');
-            $table->unsignedInteger('f111_mm_id_company');
             $table->foreign('f111_mm_id_company')
                 ->references('f100_mm_id_company')
                 ->on('t100_mm_companies');

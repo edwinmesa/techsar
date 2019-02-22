@@ -15,6 +15,7 @@ class CreateWarehouseTable extends Migration
     {
         Schema::create('t154_mc_warehouses', function (Blueprint $table) {
             $table->increments('f154_mc_id_warehouse')->unique('f154_mc_id_warehouse');
+            $table->unsignedInteger('f154_mc_id_company');
             $table->timestamps();
             $table->integer('f154_mc_cod_warehouse')->unique();
             $table->string('f154_mc_des_warehouse');
@@ -22,6 +23,9 @@ class CreateWarehouseTable extends Migration
             $table->foreign('f154_mc_id_op')
                 ->references('f102_mm_id_op')
                 ->on('t102_mm_operations_center');
+            $table->foreign('f154_mc_id_company')
+                ->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
 
 
         });

@@ -13,4 +13,9 @@ class Group extends Model
     {
         return $this->hasMany(Category::class,'f152_mc_id_group');
     }
+
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f151_mc_id_company');
+    }
 }

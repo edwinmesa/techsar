@@ -9,6 +9,11 @@ class Category extends Model
     protected $table        = 't152_mc_categories';
     protected $primaryKey   = 'f152_mc_id_category';
 
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f152_mc_id_company');
+    }
+
     public function group()
     {
         return $this->belongsTo(Group::class,'f152_mc_id_group');
@@ -18,4 +23,5 @@ class Category extends Model
     {
         return $this->hasMany(Item::class,'f153_mc_id_category');
     }
+
 }

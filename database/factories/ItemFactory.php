@@ -35,7 +35,7 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
     /* Obtain id provider foreign key to brands*/
     $valueProviderId = DB::table('t150_mc_brands')
         ->where('f150_mc_id_brand', $valueBrandId)
-        ->value('f150_mm_id_provider');
+        ->value('f150_mc_id_provider');
     /* Obtain des provider where value is var $valueProviderId*/
     $valueProviderDes = DB::table('t112_mm_providers')
         ->where('f112_mm_id_providers', $valueProviderId)
@@ -51,6 +51,7 @@ $factory->define(App\Models\Item::class, function (Faker $faker) {
 
     static $itemCod = 100;
     return [
+        'f153_mc_id_company'        =>1,
         'f153_mc_item_cod'          => $itemCod++,
         'f153_mc_item_des'          => $faker->monitor.' '.$valueBrandDes,
         'f153_mc_item_active'       => 1,

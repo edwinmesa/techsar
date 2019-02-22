@@ -13,4 +13,9 @@ class Brand extends Model
     {
         return $this->hasMany(Item::class,'f153_mc_id_brand');
     }
+
+    public function company()
+    {
+        return $this->belongsTo(Company::class,'f150_mc_id_company');
+    }
 }

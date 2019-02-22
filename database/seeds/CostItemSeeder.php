@@ -39,6 +39,7 @@ class CostItemSeeder extends Seeder
             $costTaxes = $this->costTaxes($costSales, $costTax);
 
             CostItem::create([
+                'f200_mvt_id_company' =>1,
                 'f200_mvt_id_item' => $item->f153_mc_id_item,
                 'f200_mvt_item_cod' => $item->f153_mc_item_cod,
                 'f200_mvt_item_des' => $item->f153_mc_item_des,

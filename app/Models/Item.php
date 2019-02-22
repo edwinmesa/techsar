@@ -29,4 +29,9 @@ class Item extends Model
         return $this->hasOne(CostItem::class,'f005_us_id_area');
     }
 
+    public function item()
+    {
+        return $this->belongsTo(Company::class,'f153_mc_id_company');
+    }
+
 }

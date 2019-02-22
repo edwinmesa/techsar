@@ -14,6 +14,7 @@ class WarehouseSeeder extends Seeder
     public function run()
     {
         Warehouse::create([
+            'f154_mc_id_company'        =>1,
             'f154_mc_cod_warehouse'     => 6501,
             'f154_mc_des_warehouse'     => 'Bodega General Bogota',
             'f154_mc_id_op'             =>  $groupId = OperationCenter::where('f102_mm_op_cod', 6494)
@@ -21,6 +22,7 @@ class WarehouseSeeder extends Seeder
         ]);
 
         Warehouse::create([
+            'f154_mc_id_company'        =>1,
             'f154_mc_cod_warehouse'     => 6502,
             'f154_mc_des_warehouse'     => 'Bodega General Medellin',
             'f154_mc_id_op'             =>  $groupId = OperationCenter::where('f102_mm_op_cod', 6494)

@@ -15,6 +15,7 @@ class CreatePersonsTable extends Migration
     {
         Schema::create('t110_mm_persons', function (Blueprint $table) {
             $table->increments('f110_mm_id_person')->unique('f110_mm_id_person');
+            $table->unsignedInteger('f110_mm_id_company');
             $table->timestamps();
             $table->integer('f110_mm_person_cod')->unique();
             $table->string('f110_mm_person_des');
@@ -23,7 +24,6 @@ class CreatePersonsTable extends Migration
             $table->string('f110_mm_person_email')->nullable();
             $table->integer('f110_mm_person_phone')->nullable();
             $table->integer('f110_mm_id_person_active')->default(1,0);
-            $table->unsignedInteger('f110_mm_id_company');
             $table->foreign('f110_mm_id_company')->references('f100_mm_id_company')
                 ->on('t100_mm_companies');
         });

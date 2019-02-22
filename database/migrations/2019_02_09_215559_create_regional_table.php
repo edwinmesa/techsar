@@ -15,10 +15,10 @@ class CreateRegionalTable extends Migration
     {
         Schema::create('t101_mm_regional', function (Blueprint $table) {
             $table->increments('f101_mm_id_regional')->unique('f101_mm_id_regional');
+            $table->unsignedInteger('f101_mm_id_company');
             $table->timestamps();
             $table->integer('f101_mm_regional_cod');
             $table->string('f101_mm_regional_des');
-            $table->unsignedInteger('f101_mm_id_company');
             $table->foreign('f101_mm_id_company')->references('f100_mm_id_company')
                 ->on('t100_mm_companies');
 

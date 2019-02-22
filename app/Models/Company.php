@@ -34,4 +34,31 @@ class Company extends Model
         return $this->hasMany(Provider::class,'f112_mm_id_company');
     }
 
+    public function items()
+    {
+        return $this->hasMany(Item::class,'f153_mm_id_company');
+    }
+
+    public function warehouses()
+    {
+        return $this->hasMany(Warehouse::class,'f154_mm_id_company');
+    }
+
+    public function brands()
+    {
+        return $this->hasMany(Brand::class,'f150_mc_id_company');
+    }
+
+    public function groups()
+    {
+        return $this->hasMany(Group::class,'f151_mc_id_company');
+    }
+
+    public function categories()
+    {
+        return $this->hasMany(Category::class,'f152_mc_id_company');
+    }
+
+
+
 }

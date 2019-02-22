@@ -15,6 +15,7 @@ class CreateCategoriesTable extends Migration
     {
         Schema::create('t152_mc_categories', function (Blueprint $table) {
             $table->increments('f152_mc_id_category')->unique('f152_mc_id_category');
+            $table->unsignedInteger('f152_mc_id_company');
             $table->timestamps();
             $table->integer('f152_mc_category_cod')->unique();
             $table->string('f152_mc_category_des');
@@ -22,6 +23,9 @@ class CreateCategoriesTable extends Migration
             $table->foreign('f152_mc_id_group')
                 ->references('f151_mc_id_group')
                 ->on('t151_mc_groups');
+            $table->foreign('f152_mc_id_company')
+                ->references('f100_mm_id_company')
+                ->on('t100_mm_companies');
         });
     }
 
